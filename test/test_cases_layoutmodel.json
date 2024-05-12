@@ -1,0 +1,367 @@
+{
+    "test_cases": [
+        {
+            "test_id": 1,
+            "type": "extension",
+            "text": "Subject:\nExtension of 13413/14 & 13483/84 Malda Town-Bhatinda Farakka Expresss upto Balurghat\n\nNO. 2024/CHG/16/NFR/21 (.) CONNECT CPTM/NFR'S LETTER NO. T/240/1/PT-1(126185) DATED 20- 02-2024 REGARDING EXTENSION OF 13413/14 AND 13483/84 FARAKKA EXPRESS UPTO BALURGHAT(.) MINISTRY OF RAILWAYS APPROVES THE EXTENSION OF 13413/14 MALDA TOWN- BATHINDA FARAKKA EXPRESS AND 13483/84 MALDA TOWN-BATHINDA FARAKKA EXPRESS UPTO BALURGHAT, AS UNDER :-\n\nTHE ABOVE EXTENSION MAY BE GIVEN EFFECT FROM AN EARLY CONVENIENT DATE UNDER ADVICE TO THIS OFFICE (.) GIVE WIDE PUBLICITY (.) ENSURE COMPLIANCE AND CONFIRM (.) MATTER MOST URGENT (.)\n\nTabular data:\n\nTable 1:\nTHE GENERAL MANAGERs (OPTG)|COPY TO: CPTMs\nNR/NEW DELHI|NR/NEW DELHI\nNCR/PRAYAGRAJ|NCR/PRAYAGRAJ\nECR/HAJIPUR|ECR/HAJIPUR\nER/KOLKATA|ER/KOLKATA\nNFR/GUWAHATI|NFR/GUWAHATI\n\nTable 2:\n13484 BATHINDA- MALDA TOWN- BALURGHAT FARAKKA EXPRESS (4 DAYS)|13414 BATHINDA- MALDA TOWN FARAKKA EXPRESS (TRI-WEEKLY)|1|STATIONS|1|13413 MALDA TOWN- BATHINDA FARAKKA EXPRESS (TRI-WEEKLY)|13483 MALDA TOWN- BATHINDA FARAKKA EXPRESS (4 DAYS)\n16:25|15:00|D|BATHINDA|A|11:15|10:00\n21:25 21:40|21:25 21:40|A D|DELHI|D A|05:10 04:55|05:10\n||||||04:55\n06:40 06:50|06:40 06:50|A D|MALDA TOWN|D A|19:35 19:25|19:35\n||||||19:25\n09:15|09:15|A|BALURGHAT|D|17:00|17:00\n\nTable 3:\n\"COMMERCIAL STOPPAGE\nTHE EXTENDED PORTION\"|ON|:|EKLAKHI AND BUNIADPUR\nPRIMARY MAINTENANCE||..|BALURGHAT\n\n",
+            "expected_output": [
+                {
+                    "Train number": "13413",
+                    "Train name": "MALDA TOWN- BATHINDA FARAKKA EXPRESS",
+                    "End Station name": "BALURGHAT",
+                    "Date of Issue": "15-03-2024"
+                },
+                {
+                    "Train number": "13483",
+                    "Train name": "MALDA TOWN- BATHINDA FARAKKA EXPRESS",
+                    "End Station name": "BALURGHAT",
+                    "Date of Issue": "15-03-2024"
+                },
+                {
+                    "Train number": "13414",
+                    "Train name": "BATHINDA- MALDA TOWN FARAKKA EXPRESS",
+                    "End Station name": "BALURGHAT",
+                    "Date of Issue": "15-03-2024"
+                },
+                {
+                    "Train number": "13484",
+                    "Train name": "BATHINDA- MALDA TOWN- BALURGHAT FARAKKA EXPRESS",
+                    "End Station name": "BALURGHAT",
+                    "Date of Issue": "15-03-2024"
+                }
+            ]
+        },
+        {
+            "test_id": 2,
+            "type": "extension",
+            "text": "Subject:\nExtension of 09605/06 Ajmer-Jaipur DEMU upto Gangapur City\n\nNO. 2024/CHG/16/NWR/25 (.) CONNECT CPTM/NWR'S LETTER NO. T/425/EXTENSION-JP (42639) DATED 08-03-2024 REGARDING EXTENSION OF 09605/09606 (79601/79602) AJMER-JAIPUR DEMU UPTO GANGAPUR CITY (.) MINISTRY OF RAILWAYS APPROVES THE PROPOSAL FOR EXTENSION OF 09605/09606 (79601/79602) AJMER - JAIPUR DEMU UPTO GANGAPUR CITY, AS UNDER :-\n\nTHE ABOVE EXTENSION MAY BE GIVEN EFFECT FROM AN EARLY CONVENIENT DATE UNDER ADVICE TO THIS OFFICE (.) GIVE WIDE PUBLICITY (.) ENSURE COMPLIANCE AND CONFIRM (.) MATTER MOST URGENT (.)\n\nTabular data:\n\nTable 1:\nTHE GENERAL MANAGER (OPTG)|COPY TO: CPTM\nNWR/JAIPUR|NWR/JAIPUR\n\nTable 2:\n09605 AJMER- JAIPUR DEMU|09605 AJMER - JAIPUR DEMU|1|STATIONS|1|09606 JAIPUR- AJMER DEMU|09606 JAIPUR- AJMER DEMU\nEXISTING TIMINGS|APPROVED TIMINGS||||EXISTING TIMINGS|APPROVED TIMINGS\n07:15|07:00|D|AJMER|A|23:15|23:15\n10:15|09:45 09:50|A|JAIPUR|D A|19:05|19:05\n||D||||19:00\n--|11:05 11:15|A|DAUSA|D A|--|17:35\n||D||||17:25\n--|14:00|A|GANGAPUR CITY|D|--|15:00\n\nTable 3:\nDAYS OF OPERATION|:|EX- AJMER- MON, TUES, WED THUS, FRI & SAT EX- GANGAPUR- MON, TUES, WED THUS, FRI & SAT\n\"COMMERCIAL STOPPAGE ON\nTHE EXTENDED PORTION\"|:|GANDHI NAGAR, GETOR JAGATPURA, KHATIPURA, BASSI, DAUSA, BANIYANA, NAGAL-RAJAWATAN, SALEMPUR ARNIYA KHURD, DEEDWANA, LALSOT, BINDORI, MANDAWARI, PIPLAI, BAMANWAS, KHUNTLA, UDAIKALAN\nPRIMARY MAINTENANCE|:|MADAR/AJMER WITH RBPC\n\n",
+            "expected_output": [
+                {
+                    "Train number": "09605",
+                    "Train name": "AJMER- JAIPUR DEMU",
+                    "End Station name": "GANGAPUR CITY",
+                    "Date of Issue": "15-03-2024"
+                },
+                {
+                    "Train number": "09606",
+                    "Train name": "JAIPUR- AJMER DEMU",
+                    "End Station name": "GANGAPUR CITY",
+                    "Date of Issue": "15-03-2024"
+                }
+            ]
+        },
+        {
+            "test_id": 3,
+            "type": "stoppage",
+            "text": "Subject:\nStoppage of 20959/60 Valsad-Vadnagar Express at Bilimora\n\nNO. 2021/CHG/13/WR/28 (.) MINISTRY OF RAILWAYS DESIRES THAT EXPERIMENTAL STOPPAGE OF THE FOLLOWING TRAIN(s) SHOULD BE PROVIDED AT THE STATION(s) AND WITH EFFECT FROM THE DATE(s) INDICATED ALONGSIDE (.)\n\nA CLOSE WATCH SHOULD BE KEPT AT THE SALE OF TICKETS AT THE STATION(s) FOR REVIEW (.) GIVE WIDE PUBLICITY (.) ENSURE COMPLIANCE AND CONFIRM (.)\n\nKUMAR/RAILWAYS (.) Klubs 13/03/24 (\u0935\u093f\u0935\u0947\u0915 \u0915\u0941\u092e\u093e\u0930 \u0938\u093f\u0928\u094d\u0939\u093e) (VIVEK KUMAR SINHA) \u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0928\u093f\u0926\u0947\u0936\u0915 (\u0915\u094b\u091a\u093f\u0902\u0917) JOINT DIRECTOR (COACHING) \u0930\u0947\u0932\u0935\u0947 \u092c\u094b\u0930\u094d\u0921 / RAILWAY BOARD\n\nTabular data:\n\nTable 1:\nTHE GENERAL MANAGER (OPTG.)|COPY TO: CPTM\nWR/ MUMBAI|WR/ MUMBAI\n\nTable 2:\nSL|TRAIN NO. AND NAME|STATION|W.E.F.\n1.|20959/20960 VALSAD-VADNAGAR EXPRESS|BILIMORA|EARLY CONVENIENT DATE\n\n",
+            "expected_output": [
+                {
+                    "Train number": "20959/20960",
+                    "Train name": "VALSAD-VADNAGAR EXPRESS",
+                    "Stoppage Station name": "Bilimora",
+                    "Date of Issue": "13.03.2024"
+                }
+            ]
+        },
+        {
+            "test_id": 4,
+            "type": "stoppage",
+            "text": "Subject:\nStoppage of 12871/72 Howrah-Titlagarh Ispat Express, 22861/62 Howrah-Kantabanji Ispat Express & 13287/88 Durg-Ara South Bihar Express at Sonua\n\nNO. 2024/CHG/13/SER/39 (.) MINISTRY OF RAILWAYS DESIRES THAT STOPPAGE OF THE FOLLOWING TRAIN(S) SHOULD BE PROVIDED ON AN EXPERIMENTAL BASIS AT THE STATION(S) AND WITH EFFECT FROM THE DATE(S) INDICATED ALONGSIDE (.)\n\nA CLOSE WATCH SHOULD BE KEPT AT THE SALE OF TICKETS AT THE STATION FOR REVIEW (.) GIVE WIDE PUBLICITY (.) ENSURE COMPLIANCE AND CONFIRM (.)\n\nTabular data:\n\nTable 1:\nTHE GENERAL MANAGERs (OPTG.)|COPY TO: CPTMs\nSER/KOLKATA|SER/KOLKATA\nER/KOLKATA|ER/KOLKATA\nECR/HAJIPUR|ECR/HAJIPUR\nSECR/BILASPUR|SECR/BILASPUR\nECOR/BHUBANESWAR|ECOR/BHUBANESWAR\n\nTable 2:\nSL|TRAIN NO. AND NAME|STATION|W.E.F.\n1.|12871/12872 HOWRAH-TITLAGARH ISPAT EXPRESS(TRI-WEEKLY)|SONUA|EARLY CONVENIENT DATE\n2.|22861/22862 HOWRAH-KANTABANJI ISPAT EXPRESS(4 DAYS A WEEK)|SONUA|EARLY CONVENIENT DATE\n3.|13287/13288 DURG-ARA SOUTH BIHAR EXPRESS|SONUA|EARLY CONVENIENT DATE\n\n",
+            "expected_output": [
+                {
+                    "Train number": "12871/12872",
+                    "Train name": "Howrah-Titlagarh Ispat Express",
+                    "Stoppage Station name": "Sonua",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "22861/22862",
+                    "Train name": "Howrah-Kantabanji Ispat Express",
+                    "Stoppage Station name": "Sonua",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "13287/13288",
+                    "Train name": "Durg-Ara South Bihar Express",
+                    "Stoppage Station name": "Sonua",
+                    "Date of Issue": "11.03.2024"
+                }
+            ]
+        },
+        {
+            "test_id": 5,
+            "type": "stoppage",
+            "text": "Subejct:\nStoppage of MGR Chennai-Gaya Express at Chanda Fort, 18573/74 Visakhapatnam-Bhagat Ki Kothi Express at Ashok Nagar, 20482 Tiruchirappalli-Bhagat ki kothi Humsafar Express, 19053/54 Surat-Muzaffarpur Express, 20971/72 Udaipur-Shalimar Express, 18207/08 Durg-Ajmer Express at Mungaoli, 20961/62 Udhna-Banaras Express & 22193/94 Daund-Gwalior Express at Badarwas\n\nNO.2024/CHG/13/13/45 (.) MINISTRY OF RAILWAYS DESIRES THAT STOPPAGE OF THE FOLLOWING TRAIN(S) SHOULD BE PROVIDED ON AN EXPERIMENTAL BASIS AT THE STATION(S) AND WITH EFFECT FROM THE DATE(S) INDICATED ALONGSIDE (.)\n\nA CLOSE WATCH SHOULD BE KEPT AT THE SALE OF TICKETS AT THE STATION FOR REVIEW(.) GIVE WIDE PUBLICITY(.) ENSURE COMPLIANCE AND CONFIRM(.)\n\nTabular data:\n\nTable 1:\nTHE GENERAL MANAGERs (OPTG.)|COPY TO: CPTMs\nWCR/JABALPUR|WCR/JABALPUR\nSECR/BILASPUR|SECR/BILASPUR\nCR/MUMBAI|CR/MUMBAI\nNCR/PRAYAGRAJ|NCR/PRAYAGRAJ\nECR/HAJIPUR|ECR/HAJIPUR\nSER/KOLKATA|SER/KOLKATA\nSR/CHENNAI|SR/CHENNAI\nNWR/JAIPUR|NWR/JAIPUR\nWR/MUMBAI|WR/MUMBAI\nSCR/SECUNDERABAD|SCR/SECUNDERABAD\nNR/NEW DELHI|NR/NEW DELHI\nNER/GORAKHPUR|NER/GORAKHPUR\nECOR/BHUBANESWAR|ECOR/BHUBANESWAR\n\nTable 2:\nSL|TRAIN NO. AND NAME|STATION|W.E.F.\n1|12390 MGR CHENNAI-GAYA EXPRESS|CHANDA FORT|EARLY CONVENIENT DATE\n2|18573/18574 VISAKHAPATNAM-BHAGAT KI KOTHI EXPRESS|ASHOK NAGAR|EARLY CONVENIENT DATE\n3|20482 TIRUCHIRAPPALLI-BHAGAT KI KOTHI HUMSAFAR EXPRESS|MUNGAOLI|EARLY CONVENIENT DATE\n4|19053/19054 SURAT-MUZAFFARPUR EXPRESS,|MUNGAOLI|EARLY CONVENIENT DATE\n5|20971/20972 UDAIPUR-SHALIMAR EXPRESS|MUNGAOLI|EARLY CONVENIENT DATE\n6|18207/18208 DURG-AJMER EXPRESS|MUNGAOLI|EARLY CONVENIENT DATE\n7|20961/20962 UDHNA-BANARAS EXPRESS|BADARWAS|EARLY CONVENIENT DATE\n8|22193/22194 DAUND-GWALIOR EXPRESS|BADARWAS|EARLY CONVENIENT DATE\n\n",
+            "expected_output": [
+                {
+                    "Train number": "12390",
+                    "Train name": "MGR Chennai-Gaya Express",
+                    "Stoppage Station name": "Chanda Fort",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "18573/18574",
+                    "Train name": "Visakhapatnam-Bhagat Ki Kothi Express",
+                    "Stoppage Station name": "Ashok Nagar",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "20482",
+                    "Train name": "Tiruchirappalli-Bhagat Ki Kothi Humsafar Express",
+                    "Stoppage Station name": "Mungaoli",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "19053/19054",
+                    "Train name": "Surat-Muzaffarpur Express",
+                    "Stoppage Station name": "Mungaoli",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "20971/20972",
+                    "Train name": "Udaipur-Shalimar Express",
+                    "Stoppage Station name": "Mungaoli",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "18207/18208",
+                    "Train name": "Durg-Ajmer Express",
+                    "Stoppage Station name": "Mungaoli",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "20961/20962",
+                    "Train name": "Udhna-Banaras Express",
+                    "Stoppage Station name": "Badarwas",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "22193/22194",
+                    "Train name": "Daund-Gwalior Express",
+                    "Stoppage Station name": "Badarwas",
+                    "Date of Issue": "11.03.2024"
+                }
+            ]
+        },
+        {
+            "test_id": 6,
+            "type": "introduction",
+            "text": "Subject:\nIntroduction of new train between Anand Vihar & Radhikapur\n\nNO. 2022/Chg/16/NER/22 (.) MINISTRY OF RAILWAYS DESIRES THAT A NEW TRAIN SHOULD BE INTRODUCED BETWEEN ANAND VIHAR (T) AND RADHIKAPUR TO THE FOLLOWING TIMINGS:\n\nGHAZIABAD, HAPUR, MORADABAD, CHANDAUSI, SITAPUR JUNCTION, GONDA, MANKAPUR, BASTI, GORAKHPUR, KAPTANGANJ, NARKATIAGANJ, BETTIAH, SAGAULI, BAPUDHAM MOTIHARI, MUZAFFARPUR, SAMASTIPUR, BARAUNI, BEGUSARAI, KHAGARIA, MANSI, NAUGACHIA, KATIHAR, SONALI, SALMARI, BARSOI, RAIGANJ, KALIYAGANJ\n\nTHE ABOVE INTRODUCTION MAY BE GIVEN EFFECT FROM AN EARLY CONVENIENT DATE UNDER ADVICE TO THIS OFFICE (.) GIVE WIDE PUBLICITY (.) ENSURE COMPLIANCE AND ACTION ACCORDINGLY (.) MATTER MOST URGENT(.)\n\nTabular data:\n\nTable 1:\nANAND VIHAR (T)- RADHIKAPUR EXPRESS|\"4\n:selected:\"|STATIONS|1|RADHIKAPUR - ANAND VIHAR (T) EXPRESS\n23:45 (SUN)|D|ANAND VIHAR (T)|A|18:50 (WED)\n00:21/00:23|A/D|GHAZIABAD|A/D|18:15/18:17\n01:00/01:05|A/D|HAPUR|A/D|17:05/17:10\n02:52/03:00|A/D|MORADABAD|A/D|15:25/15:35\n03:55/04:00|A/D|CHANDAUSI|A/D|14:25/14:30\n08:12/08:22|A/D|SITAPUR JUNCTION|A/D|08:45/08:55\n03:30/03:40|A/D|KATIHAR|A/D|13:30/13:40\n07:00 (TUE)|A|RADHIKAPUR|D|10:30 (TUE)\n\nTable 2:\nFREQUENCY|:unselected:|EX. ANAND VIHAR (T): SUNDAYS EX. RADHIKAPUR: TUESDAYS\nCOMMERCIAL STOPPAGES ENROUTE|:|GHAZIABAD, HAPUR, MORADABAD, CHANDAUSI, SITAPUR JUNCTION, GONDA, MANKAPUR, BASTI, GORAKHPUR, KAPTANGANJ, NARKATIAGANJ, BETTIAH, SAGAULI, BAPUDHAM MOTIHARI, MUZAFFARPUR, SAMASTIPUR, BARAUNI, BEGUSARAI, KHAGARIA, MANSI, NAUGACHIA, KATIHAR, SONALI, SALMARI, BARSOI, RAIGANJ, KALIYAGANJ\nPRIMARY MAINTAINANCE|:unselected:|ANAND VIHAR (T)\n\n",
+            "expected_output": [
+                {
+                    "Train number": "None",
+                    "Train name": "ANAND VIHAR (T)- RADHIKAPUR EXPRESS",
+                    "Start Station name": "ANAND VIHAR (T)",
+                    "End Station name": "RADHIKAPUR",
+                    "Composition": {
+                        "None": "None"
+                    },
+                    "Date of Issue": "15.03.24"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "RADHIKAPUR - ANAND VIHAR (T) EXPRESS",
+                    "Start Station name": "RADHIKAPUR",
+                    "End Station name": "ANAND VIHAR (T)",
+                    "Composition": {
+                        "None": "None"
+                    },
+                    "Date of Issue": "15.03.24"
+                }
+            ]
+        },
+        {
+            "test_id": 7,
+            "type": "introduction",
+            "text": "Subject:\nIntroduction of  Vande Bharat Express between Bhubaneswar and Visakhapatnam\n\nNO. 2022/CHG/16/82 PART - (28) (.) IN SUPERSESSION OF THIS OFFICE MESSAGE OF EVEN NUMBER DATED 09.03.2024, MINISTRY OF RAILWAYS DESIRES THAT A NEW VANDE BHARAT TRAIN SHOULD BE INTRODUCED BETWEEN BHUBANESWAR AND VISAKHAPATNAM AS UNDER (.)\n\nTHE ABOVE INTRODUCTION MAY BE GIVEN EFFECT FROM AN EARLY CONVENIENT DATE UNDER ADVICE TO THIS OFFICE (.) IF REQUIRED, THE INAUGURAL TRAIN MAY BE PLANNED AS A SPECIAL SERVICE WHICH SHOULD PICK UP ITS LINK SUBSEQUENTLY (.) GIVE WIDE PUBLICITY (.) ENSURE COMPLIANCE AND ACTION ACCORDINGLY (.) MATTER MOST URGENT (.)\n\nTabular data:\n\nTable 1:\nTHE GENERAL MANAGER (OPTG)|COPY TO: CPTM\nECOR/BHUBANESWAR|ECOR/BHUBANESWAR\n\nTable 2:\n20841 BHUBANESWAR - VISAKHAPATNAM VANDE BHARAT EXPRESS|1|STATIONS|1|20842 VISAKHAPATNAM - BHUBANESWAR VANDE BHARAT EXPRESS\n05:15|D|BHUBANESWAR|A|21:30\n05:33/05:35|A/D|KHURDA ROAD|A/D|20:57/20:59\n06:23/06:25|A/D|BALUGAON|A/D|19:52/19:54\n07:05/07:07|A/D|BRAHMAPUR|A/D|19:00/19:02\n07:18/07:20|A/D|ICHCHAPURAM|A/D|18:40/18:42\n08:18/08:20|A/D|PALASA|A/D|18:10/18:12\n09:03/09:05|A/D|SRIKAKULAM ROAD|A/D|17:08/17:10\n09:48/09:50|A/D|VIZIANAGRAM|A/D|16:18/16:20\n11:00|A|VISAKHAPATNAM|D|15:30\n\nTable 3:\nDAYS OF OPERATION|:|06 DAYS A WEEK (EXCEPT MONDAY)\nCOMMERCIAL STOPPAGE ENROUTE|:|KHURDA ROAD, BALUGAON, BRAHMAPUR,\n||ICHCHAPURAM, PALASA, SRIKAKULAM ROAD, VIZIANAGRAM\nCOMPOSITION|:|08 VANDE BHARAT COACHES\nPRIMARY MAINTENANCE|..|BHUBANESWAR WITH RBPC\n\n",
+            "expected_output": [
+                {
+                    "Train number": "20841",
+                    "Train name": "BHUBANESWAR-VISAKHAPATNAM VANDEBHARAT EXPRESS",
+                    "Start Station name": "BHUBANESWAR",
+                    "End Station name": "VISAKHAPATNAM",
+                    "Composition": {
+                        "VANDEBHARAT COACHES": 8
+                    },
+                    "Date of Issue": "11.03.24"
+                },
+                {
+                    "Train number": "20842",
+                    "Train name": "VISAKHAPATNAM-BHUBANESWAR VANDEBHARAT EXPRESS",
+                    "Start Station name": "VISAKHAPATNAM",
+                    "End Station name": "BHUBANESWAR",
+                    "Composition": {
+                        "VANDEBHARAT COACHES": 8
+                    },
+                    "Date of Issue": "11.03.24"
+                }
+            ]
+        },
+        {
+            "test_id": 8,
+            "type": "introduction",
+            "text": "Subject:\nIntroduction of new train Deoghar-Godda Passenger Special via Mohanpur-Harlatanr-Hansdiha\n\nLETTER NO. TT./582/223/MLDT/PT.IX DATED 17.01.2024 REGARDING INTRODUCTION OF NEW TRAIN DEOGHAR-GODDA PASSENGER SPECIAL VIA MOHANPUR-HARLATANR-HANSDIHA (.) MINISTRY OF RAILWAYS APPROVES ER'S PROPOSAL FOR THE INTRODUCTION OF A NEW DEMU SERVICE BETWEEN DEOGHAR AND GODDA AS UNDER :-\n\nTHE ABOVE INTRODUCTION MAY BE GIVEN EFFECT FROM AN EARLY CONVENIENT DATE UNDER ADVICE TO THIS OFFICE (.) GIVE WIDE PUBLICITY (.) ENSURE COMPLIANCE AND CONFIRM (.) MATTER MOST URGENT (.)\n\nTabular data:\n\nTable 1:\nTHE GENERAL MANAGER (OPTG)|COPY TO: CPTM\nER/KOLKATA|ER/KOLKATA\n\nTable 2:\nDEOGHAR-HANSDIHA- GODDA DEMU SPECIAL|(1) STATION (1)|||GODDA-HANSDIHA- DEOGHAR DEMU SPECIAL\n10.35|D|DEOGHAR|A|15.15\n11.58/12.00|A/D|HANSDIHA|A/D|13.28/13.30\n12.40|A|GODDA|D|12.50\n\nTable 3:\nCOMMERCIAL STOPPAGES|: ALL STATIONS ENROUTE\nDAYS OF OPERATION|: 06 DAYS A WEEK (EXCEPT SUNDAY)\nPRIMARY MAINTENANCE|: SAHIBGANJ WITH RBPC\n\n",
+            "expected_output": [
+                {
+                    "Train number": "None",
+                    "Train name": "DEOGHAR-HANSDIHA- GODDA DEMU SPECIAL",
+                    "Start Station name": "DEOGHAR",
+                    "End Station name": "GODDA",
+                    "Composition": {
+                        "None": "None"
+                    },
+                    "Date of Issue": "17.01.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "GODDA-HANSDIHA- DEOGHAR DEMU SPECIAL",
+                    "Start Station name": "GODDA",
+                    "End Station name": "DEOGHAR",
+                    "Composition": {
+                        "None": "None"
+                    },
+                    "Date of Issue": "17.01.2024"
+                }
+            ]
+        },
+        {
+            "test_id": 9,
+            "type": "stoppage",
+            "text": "Subject:\nStoppage of train services at Ait, Basti, Dhaulpur, Dullhapur, Gaur, Jhinjhak, Kannauj, Moth, Orai , Rura, Sirathu, Sultanpur Lodhi & Suriawan\n\nNO. 2023/Chg/13/13(.) MINISTRY OF RAILWAYS DESIRES THAT EXPERIMENTAL STOPPAGE OF THE FOLLOWING TRAIN(S) SHOULD BE PROVIDED AT THE STATION(S) AND WITH EFFECT FROM THE DATE(S) INDICATED ALONGSIDE (.)\n\nA CLOSE WATCH SHOULD BE KEPT AT THE SALE OF TICKETS AT THE STATION(S) FOR REVIEW (.) GIVE WIDE PUBLICITY (.) ENSURE COMPLIANCE AND CONFIRM (.)\n\nTabular data:\n\nTable 1:\nTHE GENERAL MANAGERs (OPTG.)|COPY TO: CPTMs\nALL ZONAL RAILWAYS|ALL ZONAL RAILWAYS\n\nTable 2:\nSL|TRAIN NO. AND NAME|STATION|W.E.F.\n1|19165/19166 AHMEDABAD- DARBHANGA SABARMATI EXPRESS|AIT|EARLY CONVENIENT DATE\n2|19167/19168 AHMEDABAD- VARANASI CITY SABARMATI EXPRESS|AIT|EARLY CONVENIENT DATE\n3|22537/22538 GORAKHPUR- LOKMANYA TILAK (T) EXPRESS|AIT|EARLY CONVENIENT DATE\n4|02563/02564 BARAUNI-NEW DELHI SPECIAL EXPRESS|BASTI|EARLY CONVENIENT DATE\n5|02569/02570 DARBHANGA-NEW DELHI SPECIAL EXPRESS|BASTI|EARLY CONVENIENT DATE\n6|15023/15024 GORAKHPUR- YESVANTPUR EXPRESS|BASTI|EARLY CONVENIENT DATE\n7|15903/15904 DIBRUGARH- CHANDIGARH EXPRESS|BASTI|EARLY CONVENIENT DATE\n8|19053/19054 SURAT-MUZAFFARPUR EXPRESS|DHAULPUR|EARLY CONVENIENT DATE\n9|22539/22540 MAU-ANAND VIHAR (T) EXPRESS|DULLHAPUR|EARLY CONVENIENT DATE\n10|15273/15274 RAXAUL-ANAND VIHAR (T) SATYAGRAHA EXPRESS|GAUR|EARLY CONVENIENT DATE\n11|12403/12404 PRAYAGRAJ-BIKANER EXPRESS|JHINJHAK|EARLY CONVENIENT DATE\n12|12319/12320 KOLKATA-GWALIOR EXPRESS|KANNAUJ|EARLY CONVENIENT DATE\n13|19165/19166 AHMEDABAD- DARBHANGA SABARMATI EXPRESS|MOTH|EARLY CONVENIENT DATE\n14|19167/19168 AHMEDABAD- VARANASI CITY SABARMATI EXPRESS|MOTH|EARLY CONVENIENT DATE\n15|12593/12594 LUCKNOW-BHOPAL EXPRESS|ORAI|EARLY CONVENIENT DATE\n16|22467/22468 VARANASI- GANDHINAGAR CAPITAL EXPRESS|ORAI|EARLY CONVENIENT DATE\n\nTable 3:\n17|18101/18102 TATANAGAR-JAMMU TAWI EXPRESS|RURA|EARLY CONVENIENT DATE\n18|18309/18310 SAMBALPUR-JAMMU TAWI EXPRESS|RURA|EARLY CONVENIENT DATE\n19|20403/20404 PRAYAGRAJ-BIKANER EXPRESS|SIRATHU|EARLY CONVENIENT DATE\n20|19107/19108 BHAVNAGAR (T)- MARTYR CAPTAIN TUSHAR MAHAJAN JANMABHOOMI EXPRESS|SULTANPUR LODHI|EARLY CONVENIENT DATE\n21|19415/19416 SABARMATI-SHRI MATA VAISHNO DEVI KATRA EXPRESS|SULTANPUR LODHI|EARLY CONVENIENT DATE\n22|11071 LOKMANYA TILAK (T)-BALLIA KAMAYANI EXPRESS|SURIAWAN|EARLY CONVENIENT DATE\n\n",
+            "expected_output": [
+                {
+                    "Train number": "19165/19166",
+                    "Train name": "AHMEDABAD-DARBHANGA SABARMATI EXPRESS",
+                    "Stoppage Station name": "AIT",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "19167/19168",
+                    "Train name": "AHMEDABAD-VARANASI CITY SABARMATI EXPRESS",
+                    "Stoppage Station name": "AIT",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "22537/22538",
+                    "Train name": "GORAKHPUR-LOKMANYA TILAK (T) EXPRESS",
+                    "Stoppage Station name": "AIT",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "02563/02564",
+                    "Train name": "BARAUNT-NEW DELHI SPECIAL EXPRESS",
+                    "Stoppage Station name": "BASTI",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "02569/02570",
+                    "Train name": "DARBHANGA-NEW DELHI VANTPUR EXPRESS",
+                    "Stoppage Station name": "BASTI",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "15023/15024",
+                    "Train name": "GORAKHPUR-YESVANTPUR EXPRESS",
+                    "Stoppage Station name": "BASTI",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "15903/15904",
+                    "Train name": "DIBRUGARH-BASTI CHANDIGARH EXPRESS",
+                    "Stoppage Station name": "BASTI",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "19053/19054",
+                    "Train name": "SURAT-MUZAFFARPUR EXPRESS",
+                    "Stoppage Station name": "DHAULPUR",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "22539/22540",
+                    "Train name": "MAU-ANAND VIHAR(T) EXPRESS",
+                    "Stoppage Station name": "DULLHAPUR",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "15273/15274",
+                    "Train name": "RAXAUL-ANAND VIHAR(T) SATYAGRAHA EXPRESS",
+                    "Stoppage Station name": "GAUR",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "12403/12404",
+                    "Train name": "PRAYAGRAJ-BIKANER EXPRESS",
+                    "Stoppage Station name": "JHINJHAK",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "12319/12320",
+                    "Train name": "KOLKATA-GWALTOR EXPRESS",
+                    "Stoppage Station name": "KANNAUJ",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "19165/19166",
+                    "Train name": "AHMEDABAD-VARANASI CITY SABARMATI EXPRESS",
+                    "Stoppage Station name": "MOTH",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "19167/19168",
+                    "Train name": "AHMEDABAD-VARANASI CITY SABARMATI EXPRESS",
+                    "Stoppage Station name": "MOTH",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "12593/12594",
+                    "Train name": "LUCKNOW-BHOPAL EXPRESS",
+                    "Stoppage Station name": "ORAI",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "22467/22468",
+                    "Train name": "VARANAST-GANDHINAGAR CAPITAL EXPRESS",
+                    "Stoppage Station name": "ORAI",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "18101/18102",
+                    "Train name": "TATANAGAR-JAMMU TWAI EXPRESS",
+                    "Stoppage Station name": "RURA",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "18309/18310",
+                    "Train name": "SAMBALPUR-JAMMU TWAI EXPRESS",
+                    "Stoppage Station name": "RURA",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "20403/20404",
+                    "Train name": "PRAYAGRA.I-BIKANER EXPRESS",
+                    "Stoppage Station name": "SIRATHU",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "19107/19108",
+                    "Train name": "BFTAVNAGAR (T)-MARTYR CAPTAIN TUSHAR MAHAJAN JANMABHOOMI EXPRESS",
+                    "Stoppage Station name": "SULTANPUR LODHI",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "19415/19416",
+                    "Train name": "SABARMATI-SHRI MATA VAISHNO DEVI KATRA EXPRESS",
+                    "Stoppage Station name": "SULTANPUR LODHI",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "11071",
+                    "Train name": "LOKMANYA TILAK (T)-BALLIA KAMAYANI EXPRESS",
+                    "Stoppage Station name": "SURIAWAN",
+                    "Date of Issue": "11.03.2024"
+                }
+            ]
+        }
+    ]
+}

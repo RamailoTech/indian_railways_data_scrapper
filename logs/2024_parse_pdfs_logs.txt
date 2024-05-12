@@ -1,0 +1,306 @@
+Error processing 42A.pdf: (InvalidRequest) Invalid request.
+Code: InvalidRequest
+Message: Invalid request.
+Inner error: {
+    "code": "InvalidContent",
+    "message": "The file is corrupted or format is unsupported. Refer to documentation for the list of supported formats."
+}
+
+Error processing CC-65-2024-STOP-NALANDA.pdf: (InvalidRequest) Invalid request.
+Code: InvalidRequest
+Message: Invalid request.
+Inner error: {
+    "code": "InvalidContent",
+    "message": "The file is corrupted or format is unsupported. Refer to documentation for the list of supported formats."
+}
+
+Skipping 217.pdf, not a PDF.
+
+Skipping 238.pdf, not a PDF.
+
+Skipping CC-96-2024-STOP-KAMLAPUR.pdf, not a PDF.
+
+Skipping 151.pdf, not a PDF.
+
+Skipping 209.pdf, not a PDF.
+
+Skipping 159.pdf, not a PDF.
+
+Skipping CC-130-2024-STOP-DABHAURA.pdf, not a PDF.
+
+Skipping 205.pdf, not a PDF.
+
+Skipping 242.pdf, not a PDF.
+
+Skipping CC-128-STOP-KOTA.pdf, not a PDF.
+
+Skipping 239.pdf, not a PDF.
+
+Skipping CC-30.pdf, not a PDF.
+
+Skipping 168.pdf, not a PDF.
+
+Skipping CC-09.pdf, not a PDF.
+
+Skipping 193.pdf, not a PDF.
+
+Skipping 169.pdf, not a PDF.
+
+Skipping CC-21.pdf, not a PDF.
+
+Skipping 180.pdf, not a PDF.
+
+Skipping 182.pdf, not a PDF.
+
+Skipping 172.pdf, not a PDF.
+
+Skipping 208.pdf, not a PDF.
+
+Skipping CC-23.pdf, not a PDF.
+
+Skipping CC-12-2023-STOP-DABRA-BASAI.pdf, not a PDF.
+
+Skipping 175.pdf, not a PDF.
+
+Skipping 190A.pdf, not a PDF.
+
+Skipping 235.pdf, not a PDF.
+
+Skipping 146.pdf, not a PDF.
+
+Skipping 236.pdf, not a PDF.
+
+Skipping 156.pdf, not a PDF.
+
+Skipping 152.pdf, not a PDF.
+
+Skipping 226.pdf, not a PDF.
+
+Skipping 199.pdf, not a PDF.
+
+Skipping 215.pdf, not a PDF.
+
+Skipping CC-122-2024-STOP-BAHADURGARH.pdf, not a PDF.
+
+Skipping CC-28.pdf, not a PDF.
+
+Skipping CC-52.pdf, not a PDF.
+
+Skipping CC-89-2024-STOP-GHUNWARA.pdf, not a PDF.
+
+Skipping 223.pdf, not a PDF.
+
+Skipping CC-25.pdf, not a PDF.
+
+Skipping 202.pdf, not a PDF.
+
+Skipping 171.pdf, not a PDF.
+
+Skipping 222.pdf, not a PDF.
+
+Skipping 185.pdf, not a PDF.
+
+Skipping 207.pdf, not a PDF.
+
+Skipping CC-101-2024-STOP-MORENA.pdf, not a PDF.
+
+Skipping 162.pdf, not a PDF.
+
+Skipping 177.pdf, not a PDF.
+
+Skipping 200.pdf, not a PDF.
+
+Skipping CC-90-2024-INTRO-ROHTAK-HANSI.pdf, not a PDF.
+
+Skipping CC-106-2024-STOP-HARINAGAR-SIKTA.pdf, not a PDF.
+
+Skipping 150.pdf, not a PDF.
+
+Skipping CC-118-2024-STOP-ALMATTI.pdf, not a PDF.
+
+Skipping 147.pdf, not a PDF.
+
+Skipping 148.pdf, not a PDF.
+
+Skipping 166.pdf, not a PDF.
+
+Skipping 178.pdf, not a PDF.
+
+Skipping CC-99-2024-STOP-SUWASARA-SHAMGARH.pdf, not a PDF.
+
+Skipping 163.pdf, not a PDF.
+
+Skipping 203.pdf, not a PDF.
+
+Skipping CC-02.pdf, not a PDF.
+
+Skipping CC-114-2024-INTRO-BARAMULLA-SANGALDAN.pdf, not a PDF.
+
+Error processing 142.pdf: Object of type AnalyzeResult is not JSON serializable
+
+Skipping 143.pdf, not a PDF.
+
+Skipping 179.pdf, not a PDF.
+
+Skipping CC-20.pdf, not a PDF.
+
+Skipping 233.pdf, not a PDF.
+
+Skipping 232.pdf, not a PDF.
+
+Skipping CC-24.pdf, not a PDF.
+
+Skipping 230.pdf, not a PDF.
+
+Skipping 218.pdf, not a PDF.
+
+Skipping 200A.pdf, not a PDF.
+
+Skipping 191.pdf, not a PDF.
+
+Skipping 183.pdf, not a PDF.
+
+Skipping 234.pdf, not a PDF.
+
+Skipping CC-27.pdf, not a PDF.
+
+Skipping 192.pdf, not a PDF.
+
+Skipping CC-88-2024-STOP-KAMALNAGAR.pdf, not a PDF.
+
+Skipping CC-26.pdf, not a PDF.
+
+Skipping 165.pdf, not a PDF.
+
+Skipping 170.pdf, not a PDF.
+
+Skipping 197.pdf, not a PDF.
+
+Skipping 189.pdf, not a PDF.
+
+Skipping CC-91-2024-INTRO-SILIGURI-RADHIKAPUR.pdf, not a PDF.
+
+Skipping 216.pdf, not a PDF.
+
+Skipping CC-11-2024-STOP-MCCKLUKSIGANJ-TATISILWAI-NAMKOM.pdf, not a PDF.
+
+Skipping CC-05.pdf, not a PDF.
+
+Skipping 196.pdf, not a PDF.
+
+Skipping 227.pdf, not a PDF.
+
+Skipping 157.pdf, not a PDF.
+
+Skipping 161.pdf, not a PDF.
+
+Skipping 241.pdf, not a PDF.
+
+Skipping 195.pdf, not a PDF.
+
+Skipping 198A.pdf, not a PDF.
+
+Skipping 193A.pdf, not a PDF.
+
+Skipping 201.pdf, not a PDF.
+
+Skipping 191A.pdf, not a PDF.
+
+Skipping 176.pdf, not a PDF.
+
+Skipping 219.pdf, not a PDF.
+
+Skipping 174.pdf, not a PDF.
+
+Skipping CC-123-2024-STOP-RURA.pdf, not a PDF.
+
+Skipping 187.pdf, not a PDF.
+
+Skipping 220.pdf, not a PDF.
+
+Skipping CC-93-2024-STOP-SHAHBAD.pdf, not a PDF.
+
+Skipping CC-31.pdf, not a PDF.
+
+Skipping CC-51.pdf, not a PDF.
+
+Skipping 213.pdf, not a PDF.
+
+Skipping CC-102-2024-STOP-ABHAIPUR.pdf, not a PDF.
+
+Skipping 199A.pdf, not a PDF.
+
+Skipping 198.pdf, not a PDF.
+
+Skipping 42A.pdf, not a PDF.
+
+Skipping 186.pdf, not a PDF.
+
+Skipping CC-06.pdf, not a PDF.
+
+Skipping 154.pdf, not a PDF.
+
+Skipping 225.pdf, not a PDF.
+
+Skipping CC-129-2024-STOP-FATEHPUR.pdf, not a PDF.
+
+Skipping CC-92-2024-STOP-TIRUPATTUR.pdf, not a PDF.
+
+Skipping 158.pdf, not a PDF.
+
+Skipping CC-109-2024-STOP-PIPRA-MEHSI.pdf, not a PDF.
+
+Skipping 237.pdf, not a PDF.
+
+Skipping 188.pdf, not a PDF.
+
+Skipping 173.pdf, not a PDF.
+
+Skipping 164.pdf, not a PDF.
+
+Skipping 204.pdf, not a PDF.
+
+Skipping CC-07.pdf, not a PDF.
+
+Skipping CC-29.pdf, not a PDF.
+
+Skipping CC-95-2024-STOP-TULJAPUR-CHANDUR.pdf, not a PDF.
+
+Skipping 243.pdf, not a PDF.
+
+Skipping CC-107-1024-STOP-MADARIHAT-NAGRAKATA.pdf, not a PDF.
+
+Skipping 212.pdf, not a PDF.
+
+Skipping 214.pdf, not a PDF.
+
+Skipping 194.pdf, not a PDF.
+
+Skipping 185A.pdf, not a PDF.
+
+Skipping 160.pdf, not a PDF.
+
+Skipping 115A.pdf, not a PDF.
+
+Skipping 149.pdf, not a PDF.
+
+Skipping 240.pdf, not a PDF.
+
+Skipping CC-65-2024-STOP-NALANDA.pdf, not a PDF.
+
+Skipping CC-22.pdf, not a PDF.
+
+Skipping 224.pdf, not a PDF.
+
+Skipping 153.pdf, not a PDF.
+
+Skipping CC-97-2024-STOP-KAZHAKUTTAM-PARAVUR.pdf, not a PDF.
+
+Skipping 221.pdf, not a PDF.
+
+Skipping 184.pdf, not a PDF.
+
+Skipping 190.pdf, not a PDF.
+
+Skipping CC-50.pdf, not a PDF.
+

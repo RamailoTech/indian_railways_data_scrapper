@@ -1,0 +1,754 @@
+{
+    "test_cases": [
+        {
+            "test_id": 1,
+            "type": "extension",
+            "text": "Paragraph:CC-241/2024==========Paragraph:\u092d\u093e\u0930\u0924\u0938\u0930\u0915\u093e\u0930GOVERNMENTOFINDIA\u0930\u0947\u0932\u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092fMINISTRYOFRAILWAYS\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921(RAILWAYBOARD)==========Paragraph:THEGENERALMANAGERs(OPTG)==========Paragraph:NR/NEWDELHI==========Paragraph:NCR/PRAYAGRAJ==========Paragraph:ECR/HAJIPUR==========Paragraph:ER/KOLKATA==========Paragraph:NFR/GUWAHATI==========Paragraph:COPYTO:CPTMs==========Paragraph:NR/NEWDELHI==========Paragraph:NCR/PRAYAGRAJ==========Paragraph:ECR/HAJIPUR==========Paragraph:ER/KOLKATA==========Paragraph:NFR/GUWAHATI==========Paragraph:POSTCOPYISSUEDON15-03-2024==========Paragraph:NO.2024/CHG/16/NFR/21(.)CONNECTCPTM/NFR'SLETTERNO.T/240/1/PT-1(126185)DATED20-02-2024REGARDINGEXTENSIONOF13413/14AND13483/84FARAKKAEXPRESSUPTOBALURGHAT(.)MINISTRYOFRAILWAYSAPPROVESTHEEXTENSIONOF13413/14MALDATOWN-BATHINDAFARAKKAEXPRESSAND13483/84MALDATOWN-BATHINDAFARAKKAEXPRESSUPTOBALURGHAT,ASUNDER:-==========Paragraph:13484BATHINDA-13414==========Paragraph:13413MALDA==========Paragraph:TOWN-==========Paragraph:BATHINDA==========Paragraph:FARAKKA==========Paragraph:EXPRESS==========Paragraph:(TRI-WEEKLY)==========Paragraph:13483MALDATOWN-BATHINDAFARAKKAEXPRESS(4DAYS)==========Paragraph:MALDATOWN-BALURGHATFARAKKAEXPRESS(4DAYS)==========Paragraph:BATHINDA-MALDATOWNFARAKKAEXPRESS==========Paragraph:1==========Paragraph:STATIONS==========Paragraph:1==========Paragraph:(TRI-WEEKLY)==========Paragraph:16:25==========Paragraph:15:00==========Paragraph:D==========Paragraph:BATHINDA==========Paragraph:A11:15==========Paragraph:10:00==========Paragraph:21:2521:40==========Paragraph:21:2521:4006:4006:50==========Paragraph:A==========Paragraph:DELHI==========Paragraph:D05:1005:10==========Paragraph:D==========Paragraph:A==========Paragraph:04:5504:55==========Paragraph:06:40==========Paragraph:A==========Paragraph:MALDA==========Paragraph:D19:3519:35==========Paragraph:06:50==========Paragraph:D==========Paragraph:TOWN==========Paragraph:A==========Paragraph:19:25==========Paragraph:19:25==========Paragraph:09:15==========Paragraph:09:15A==========Paragraph:BALURGHATD17:00==========Paragraph:17:00==========Paragraph:COMMERCIALSTOPPAGEONTHEEXTENDEDPORTION==========Paragraph::EKLAKHIANDBUNIADPUR==========Paragraph:PRIMARYMAINTENANCE==========Paragraph:..==========Paragraph:BALURGHAT==========Paragraph:THEABOVEEXTENSIONMAYBEGIVENEFFECTFROMANEARLYCONVENIENTDATEUNDERADVICETOTHISOFFICE(.)GIVEWIDEPUBLICITY(.)ENSURECOMPLIANCEANDCONFIRM(.)MATTERMOSTURGENT(.)==========Paragraph:KUMAR/RAILWAYS(.)==========Paragraph:Vesinde15/03/24==========Paragraph:COPYTO:==========Paragraph:(\u0935\u093f\u0935\u0947\u0915\u0915\u0941\u092e\u093e\u0930\u0938\u093f\u0928\u094d\u0939\u093e)(VIVEKKUMARSINHA)\u0938\u0902\u092f\u0941\u0915\u094d\u0924\u0928\u093f\u0926\u0947\u0936\u0915(\u0915\u094b\u091a\u093f\u0902\u0917)JOINTDIRECTOR(COACHING)\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921/RAILWAYBOARD==========Paragraph:1.EDPG/MR,ED/PM,EDME/CHG,DD/COACHING(OPERATIONS)INBOARD'SOFFICE.==========Paragraph:2.CMD/IRCTC,NEWDELHI.==========",
+            "expected_output": [
+                {
+                    "Train number": "13413/14",
+                    "Train name": "MALDA TOWN-BATHINDA FARAKKA EXPRESS",
+                    "End Station name": "BALURGHAT",
+                    "Date of Issue": "15-03-2024"
+                },
+                {
+                    "Train number": "13483/84",
+                    "Train name": "MALDA TOWN-BATHINDA FARAKKA EXPRESS",
+                    "End Station name": "BALURGHAT",
+                    "Date of Issue": "15-03-2024"
+                }
+            ],
+            "predicted_output": [
+                {
+                    "Train number": "13413/14",
+                    "Train name": "MALDA TOWN-BATHINDA FARAKKA EXPRESS",
+                    "End Station name": "BALURGHAT",
+                    "Date of Issue": "15-03-2024"
+                },
+                {
+                    "Train number": "13483/84",
+                    "Train name": "MALDA TOWN-BATHINDA FARAKKA EXPRESS",
+                    "End Station name": "BALURGHAT",
+                    "Date of Issue": "15-03-2024"
+                }
+            ]
+        },
+        {
+            "test_id": 2,
+            "type": "extension",
+            "text": "Paragraph:CC-218/2024==========Paragraph:\u092d\u093e\u0930\u0924\u0938\u0930\u0915\u093e\u0930GOVERNMENTOFINDIA\u0930\u0947\u0932\u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092fMINISTRYOFRAILWAYS\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921(RAILWAYBOARD)==========Paragraph:THEGENERALMANAGER(OPTG)==========Paragraph:NWR/JAIPUR==========Paragraph:COPYTO:CPTM==========Paragraph:NWR/JAIPUR==========Paragraph:POSTCOPY==========Paragraph:ISSUEDON15-03-2024==========Paragraph:NO.2024/CHG/16/NWR/25(.)CONNECTCPTM/NWR'SLETTERNO.T/425/EXTENSION-JP(42639)DATED08-03-2024REGARDINGEXTENSIONOF09605/09606(79601/79602)AJMER-JAIPURDEMUUPTOGANGAPURCITY(.)MINISTRYOFRAILWAYSAPPROVESTHEPROPOSALFOREXTENSIONOF09605/09606(79601/79602)AJMER-JAIPURDEMUUPTOGANGAPURCITY,ASUNDER:-==========Paragraph:09605==========Paragraph:AJMER-==========Paragraph:JAIPURDEMU==========Paragraph:EXISTING==========Paragraph:TIMINGS==========Paragraph:07:15==========Paragraph:10:15==========Paragraph:--==========Paragraph:09605AJMER-==========Paragraph:JAIPURDEMU==========Paragraph:APPROVED==========Paragraph:TIMINGS==========Paragraph:07:00==========Paragraph:09:45==========Paragraph:09:50==========Paragraph:11:05==========Paragraph:11:15==========Paragraph:1==========Paragraph:STATIONS==========Paragraph:D==========Paragraph:AJMER==========Paragraph:A==========Paragraph:D==========Paragraph:JAIPUR==========Paragraph:A==========Paragraph:DAUSA==========Paragraph:D==========Paragraph:09606JAIPUR-==========Paragraph:1==========Paragraph:AJMERDEMU==========Paragraph:EXISTING==========Paragraph:TIMINGS==========Paragraph:A==========Paragraph:23:15==========Paragraph:D==========Paragraph:19:05==========Paragraph:19:05==========Paragraph:A==========Paragraph:19:00==========Paragraph:D==========Paragraph:--==========Paragraph:17:35==========Paragraph:A17:25==========Paragraph:09606JAIPUR-AJMERDEMU==========Paragraph:APPROVED==========Paragraph:TIMINGS==========Paragraph:23:15==========Paragraph:--==========Paragraph:14:00==========Paragraph:A==========Paragraph:GANGAPUR==========Paragraph:CITY==========Paragraph:D==========Paragraph:--==========Paragraph:15:00==========Paragraph:DAYSOFOPERATION==========Paragraph::EX-AJMER-MON,TUES,WEDTHUS,FRI&SATEX-GANGAPUR-MON,TUES,WEDTHUS,FRI&SAT==========Paragraph:COMMERCIALSTOPPAGEON:==========Paragraph:THEEXTENDEDPORTION==========Paragraph:PRIMARYMAINTENANCE==========Paragraph::==========Paragraph:MADAR/AJMERWITHRBPC==========Paragraph:GANDHINAGAR,GETORJAGATPURA,KHATIPURA,BASSI,DAUSA,BANIYANA,NAGAL-RAJAWATAN,SALEMPURARNIYAKHURD,DEEDWANA,LALSOT,BINDORI,MANDAWARI,PIPLAI,BAMANWAS,KHUNTLA,UDAIKALAN==========Paragraph:THEABOVEEXTENSIONMAYBEGIVENEFFECTFROMANEARLYCONVENIENTDATEUNDERADVICETOTHISOFFICE(.)GIVEWIDEPUBLICITY(.)ENSURECOMPLIANCEANDCONFIRM(.)MATTERMOSTURGENT(.)==========Paragraph:KUMAR/RAILWAYS(.)==========Paragraph:COPYTO:==========Paragraph:15/03/24(\u0935\u093f\u0935\u0947\u0915\u0915\u0941\u092e\u093e\u0930\u0938\u093f\u0928\u094d\u0939\u093e)(VIVEKKUMARSINHA)\u0938\u0902\u092f\u0941\u0915\u094d\u0924\u0928\u093f\u0926\u0947\u0936\u0915(\u0915\u094b\u091a\u093f\u0902\u0917)JOINTDIRECTOR(COACHING)\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921/RAILWAYBOARD==========Paragraph:1.EDPG/MR,ED/PM,EDME/CHG,DD/COACHING(OPERATIONS)INBOARD'SOFFICE.2.CMD/IRCTC,NEWDELHI.==========",
+            "expected_output": [
+                {
+                    "Train number": "09605/09606",
+                    "Train name": "AJMER-JAIPUR DEMU",
+                    "End Station name": "GANGAPUR CITY",
+                    "Date of Issue": "15-03-2024"
+                }
+            ],
+            "predicted_output": [
+                {
+                    "Train number": "09605/09606",
+                    "Train name": "AJMER-JAIPUR DEMU",
+                    "End Station name": "GANGAPUR CITY",
+                    "Date of Issue": "15-03-2024"
+                }
+            ]
+        },
+        {
+            "test_id": 3,
+            "type": "stoppage",
+            "text": "Paragraph:CC-209/2024==========Paragraph:\u092d\u093e\u0930\u0924\u0938\u0930\u0915\u093e\u0930GOVERNMENTOFINDIA\u0930\u0947\u0932\u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092fMINISTRYOFRAILWAYS\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921(RAILWAYBOARD)==========Paragraph:THEGENERALMANAGER(OPTG.)==========Paragraph:WR/MUMBAI==========Paragraph:POSTCOPYISSUEDON13.03.2024==========Paragraph:COPYTO:CPTM==========Paragraph:WR/MUMBAI==========Paragraph:NO.2021/CHG/13/WR/28(.)MINISTRYOFRAILWAYSDESIRESTHATEXPERIMENTALSTOPPAGEOFTHEFOLLOWINGTRAIN(s)SHOULDBEPROVIDEDATTHESTATION(s)ANDWITHEFFECTFROMTHEDATE(s)INDICATEDALONGSIDE(.)==========Paragraph:SL==========Paragraph:TRAINNO.ANDNAME==========Paragraph:STATION==========Paragraph:W.E.F.==========Paragraph:1.20959/20960EXPRESS==========Paragraph:VALSAD-VADNAGAR==========Paragraph:BILIMORA==========Paragraph:EARLYCONVENIENTDATE==========Paragraph:ACLOSEWATCHSHOULDBEKEPTATTHESALEOFTICKETSATTHESTATION(s)FORREVIEW(.)GIVEWIDEPUBLICITY(.)ENSURECOMPLIANCEANDCONFIRM(.)==========Paragraph:KUMAR/RAILWAYS(.)Klubs==========Paragraph:13/03/24(\u0935\u093f\u0935\u0947\u0915\u0915\u0941\u092e\u093e\u0930\u0938\u093f\u0928\u094d\u0939\u093e)(VIVEKKUMARSINHA)\u0938\u0902\u092f\u0941\u0915\u094d\u0924\u0928\u093f\u0926\u0947\u0936\u0915(\u0915\u094b\u091a\u093f\u0902\u0917)JOINTDIRECTOR(COACHING)\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921/RAILWAYBOARD==========Paragraph:COPYTO:==========Paragraph:1.EDPG/MR,ED/PM,DD/CHG(OPERATIONS)INBOARD'SOFFICE.==========Paragraph:2.CMD/IRCTC,NEWDELHI.==========",
+            "expected_output": [
+                {
+                    "Train number": "20959/20960",
+                    "Train name": "VALSAD-VADNAGAR EXPRESS",
+                    "Stoppage Station name": "Bilimora",
+                    "Date of Issue": "13.03.2024"
+                }
+            ],
+            "predicted_output": [
+                {
+                    "Train number": "20959/20960",
+                    "Train name": "Express",
+                    "Stoppage Station name": "Bilimora",
+                    "Date of Issue": "13.03.2024"
+                }
+            ]
+        },
+        {
+            "test_id": 4,
+            "type": "stoppage",
+            "text": "Paragraph:CC-207/2024==========Paragraph:\u092d\u093e\u0930\u0924\u0938\u0930\u0915\u093e\u0930/GOVERNMENTOFINDIA\u0930\u0947\u0932\u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f/MINISTRYOFRAILWAYS\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921(RAILWAYBOARD)==========Paragraph:POSTCOPYISSUEDON11.03.2024==========Paragraph:THEGENERALMANAGERs(OPTG.)SER/KOLKATA==========Paragraph:ER/KOLKATAER/KOLKATA==========Paragraph:ECR/HAJIPURECR/HAJIPUR==========Paragraph:SECR/BILASPUR==========Paragraph:SECR/BILASPUR==========Paragraph:ECOR/BHUBANESWARECOR/BHUBANESWAR==========Paragraph:COPYTO:CPTMsSER/KOLKATA==========Paragraph:NO.2024/CHG/13/SER/39(.)MINISTRYOFRAILWAYSDESIRESTHATSTOPPAGEOFTHEFOLLOWINGTRAIN(S)SHOULDBEPROVIDEDONANEXPERIMENTALBASISATTHESTATION(S)ANDWITHEFFECTFROMTHEDATE(S)INDICATEDALONGSIDE(.)==========Paragraph:SL1.12871/12872HOWRAH-TITLAGARHISPATEXPRESS(TRI-WEEKLY)==========Paragraph:TRAINNO.ANDNAME==========Paragraph:STATION==========Paragraph:W.E.F.==========Paragraph:SONUAEARLY==========Paragraph:CONVENIENTDATE==========Paragraph:2.22861/22862HOWRAH-KANTABANJIISPATEXPRESS(4DAYSAWEEK)==========Paragraph:SONUAEARLY==========Paragraph:CONVENIENTDATE==========Paragraph:3.13287/13288DURG-ARASOUTHBIHAREXPRESS==========Paragraph:SONUA==========Paragraph:EARLY==========Paragraph:CONVENIENTDATE==========Paragraph:ACLOSEWATCHSHOULDBEKEPTATTHESALEOFTICKETSATTHESTATIONFORREVIEW(.)GIVEWIDEPUBLICITY(.)ENSURECOMPLIANCEANDCONFIRM(.)==========Paragraph:KUMAR/RAILWAYS(.)==========Paragraph:Klinke11/03/24(\u0935\u093f\u0935\u0947\u0915\u0915\u0941\u092e\u093e\u0930\u0938\u093f\u0928\u094d\u0939\u093e)(VIVEKKUMARSINHA)\u0938\u0902\u092f\u0941\u0915\u094d\u0924\u0928\u093f\u0926\u0947\u0936\u0915(\u0915\u094b\u091a\u093f\u0902\u0917)JOINTDIRECTOR(COACHING)\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921/RAILWAYBOARD==========Paragraph:COPYTO:==========Paragraph:1.ED/PM,DD/COACHING(OPERATIONS)INBOARD'SOFFICE.2.CMD/IRCTC,NEWDELHI.==========",
+            "expected_output": [
+                {
+                    "Train number": "12871/12872",
+                    "Train name": "Howrah-Titlagarh Ispat Express",
+                    "Stoppage Station name": "Sonua",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "22861/22862",
+                    "Train name": "Howrah-Kantabanji Ispat Express",
+                    "Stoppage Station name": "Sonua",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "13287/13288",
+                    "Train name": "Durg-Ara South Bihar Express",
+                    "Stoppage Station name": "Sonua",
+                    "Date of Issue": "11.03.2024"
+                }
+            ],
+            "predicted_output": [
+                {
+                    "Train number": "12871/12872",
+                    "Train name": "Howrah-Titlagarh Ispat Express (Tri-Weekly)",
+                    "Stoppage Station name": "Sonua",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "22861/22862",
+                    "Train name": "Howrah-Kantabanji Ispat Express (4 Days a Week)",
+                    "Stoppage Station name": "Sonua",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "13287/13288",
+                    "Train name": "Durg-Ara South Bihar Express",
+                    "Stoppage Station name": "Sonua",
+                    "Date of Issue": "11.03.2024"
+                }
+            ]
+        },
+        {
+            "test_id": 5,
+            "type": "stoppage",
+            "text": "Paragraph:\u092d\u093e\u0930\u0924\u0938\u0930\u0915\u093e\u0930/GOVERNMENTOFINDIA\u0930\u0947\u0932\u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f/MINISTRYOFRAILWAYS\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921(RAILWAYBOARD)==========Paragraph:CC-200A/2024==========Paragraph:POSTCOPY11.03.2024==========Paragraph:ISSUEDON==========Paragraph:THEGENERALMANAGERs(OPTG.)==========Paragraph:WCR/JABALPURSECR/BILASPURCR/MUMBAICR/MUMBAI==========Paragraph:NCR/PRAYAGRAJNCR/PRAYAGRAJ==========Paragraph:ECR/HAJIPURECR/HAJIPUR==========Paragraph:SER/KOLKATASER/KOLKATA==========Paragraph:SR/CHENNAISR/CHENNAI==========Paragraph:NWR/JAIPURNWR/JAIPUR==========Paragraph:WR/MUMBAIWR/MUMBAI==========Paragraph:SCR/SECUNDERABADSCR/SECUNDERABAD==========Paragraph:NR/NEWDELHI==========Paragraph:NER/GORAKHPUR==========Paragraph:ECOR/BHUBANESWARECOR/BHUBANESWAR==========Paragraph:COPYTO:CPTMs==========Paragraph:WCR/JABALPUR==========Paragraph:SECR/BILASPUR==========Paragraph:NR/NEWDELHI==========Paragraph:NER/GORAKHPUR==========Paragraph:NO.2024/CHG/13/13/45(.)MINISTRYOFRAILWAYSDESIRESTHATSTOPPAGEOFTHEFOLLOWINGTRAIN(S)SHOULDBEPROVIDEDONANEXPERIMENTALBASISATTHESTATION(S)ANDWITHEFFECTFROMTHEDATE(S)INDICATEDALONGSIDE(.)==========Paragraph:SL==========Paragraph:TRAINNO.ANDNAME==========Paragraph:STATION==========Paragraph:112390MGRCHENNAI-GAYAEXPRESS==========Paragraph:CHANDAFORT==========Paragraph:218573/18574VISAKHAPATNAM-BHAGATKIKOTHIEXPRESS==========Paragraph:ASHOKNAGAREARLYCONVENIENTDATE==========Paragraph:320482TIRUCHIRAPPALLI-BHAGATKIKOTHIHUMSAFAREXPRESSMUNGAOLI==========Paragraph:4==========Paragraph:19053/19054SURAT-MUZAFFARPUREXPRESS,MUNGAOLI==========Paragraph:MUNGAOLI==========Paragraph:5==========Paragraph:20971/20972UDAIPUR-SHALIMAREXPRESS==========Paragraph:6==========Paragraph:18207/18208DURG-AJMEREXPRESSMUNGAOLI==========Paragraph:7==========Paragraph:20961/20962UDHNA-BANARASEXPRESS==========Paragraph:822193/22194DAUND-GWALIOREXPRESSBADARWAS==========Paragraph:BADARWAS==========Paragraph:W.E.F.==========Paragraph:EARLYCONVENIENTDATE==========Paragraph:EARLYCONVENIENTDATE==========Paragraph:EARLYCONVENIENTDATE==========Paragraph:EARLYCONVENIENTDATE==========Paragraph:EARLYCONVENIENTDATE==========Paragraph:EARLYCONVENIENTDATE==========Paragraph:EARLYCONVENIENTDATE==========Paragraph:ACLOSEWATCHSHOULDBEKEPTATTHESALEOFTICKETSATTHESTATIONFORREVIEW(.)GIVEWIDEPUBLICITY(.)ENSURECOMPLIANCEANDCONFIRM(.)==========Paragraph:KUMAR/RAILWAYS(.)==========Paragraph:Klubs==========Paragraph:11/03/24\u0935\u093f\u0935\u0947\u0915\u0915\u0941\u092e\u093e\u0930\u0938\u093f\u0928\u094d\u0939\u093e)(VIVEKKUMARSINHA)\u0938\u0902\u092f\u0941\u0915\u094d\u0924\u0928\u093f\u0926\u0947\u0936\u0915)\u0915\u094b\u091a\u093f\u0902\u0917)JOINTDIRECTOR(COACHING)\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921/RAILWAYBOARD==========Paragraph:COPYTO:==========Paragraph:1.EDPG/MR,EDPM,DD/CHG(OPERATIONS)INBOARD'SOFFICE.==========Paragraph:2.CMD/IRCTC,NEWDELHI.==========",
+            "expected_output": [
+                {
+                    "Train number": "11239",
+                    "Train name": "MGR Chennai-Gaya Express",
+                    "Stoppage Station name": "Chanda Fort",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "8573/18574",
+                    "Train name": "Visakhapatnam-Bhagat Ki Kothi Express",
+                    "Stoppage Station name": "Ashok Nagar",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "20482",
+                    "Train name": "Tiruchirappalli-Bhagat Ki Kothi Humsafar Express",
+                    "Stoppage Station name": "Mungaoli",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "9053/19054",
+                    "Train name": "Surat-Muzaffarpur Express",
+                    "Stoppage Station name": "Mungaoli",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "20971/20972",
+                    "Train name": "Udaipur-Shalimar Express",
+                    "Stoppage Station name": "Mungaoli",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "18207/18208",
+                    "Train name": "Durg-Ajmer Express",
+                    "Stoppage Station name": "Mungaoli", 
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "20961/20962",
+                    "Train name": "Udhna-Banaras Express",
+                    "Stoppage Station name": "Badarwas",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "22193/22194",
+                    "Train name": "Daund-Gwalior Express",
+                    "Stoppage Station name": "Badarwas",
+                    "Date of Issue": "11.03.2024"
+                }
+            ],
+            "predicted_output": [
+                {
+                    "Train number": "11239",
+                    "Train name": "MGR Chennai-Gaya Express",
+                    "Stoppage Station name": "Chanda Fort",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "18573/18574",
+                    "Train name": "Visakhapatnam-Bhagat Ki Kothi Express",
+                    "Stoppage Station name": "Ashoknagar",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "20482",
+                    "Train name": "Tiruchirappalli-Bhagat Ki Kothi Humsafar Express",
+                    "Stoppage Station name": "Mungaoli",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "19053/19054",
+                    "Train name": "Surat-Muzaffarpur Express",
+                    "Stoppage Station name": "Mungaoli",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "20971/20972",
+                    "Train name": "Udaipur-Shalimar Express",
+                    "Stoppage Station name": "None",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "18207/18208",
+                    "Train name": "Durg-Ajmer Express",
+                    "Stoppage Station name": "Mungaoli",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "20961/20962",
+                    "Train name": "Udhna-Banaras Express",
+                    "Stoppage Station name": "None",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "2193/22194",
+                    "Train name": "Daund-Gwalior Express",
+                    "Stoppage Station name": "Badarwas",
+                    "Date of Issue": "11.03.2024"
+                }
+            ]
+        },
+        {
+            "test_id": 6,
+            "type": "introduction",
+            "text": "Paragraph:-==========Paragraph:CC-239/2024==========Paragraph:\u092d\u093e\u0930\u0924\u0938\u0930\u0915\u093e\u0930/GOVERNMENTOFINDIA\u0930\u0947\u0932\u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f/MINISTRYOFRAILWAYS\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921/(RAILWAYBOARD)==========Paragraph:POSTCOPYISSUEDON15.03.2024==========Paragraph:THEGENERALMANAGER(s)(OPTG)==========Paragraph:COPYTO:CPTM(s)==========Paragraph:NR/NEWDELHI==========Paragraph:NR/NEWDELHI==========Paragraph:NER/GORAKHPUR==========Paragraph:NER/GORAKHPUR==========Paragraph:ECR/HAJIPUR==========Paragraph:ECR/HAJIPUR==========Paragraph:NFR/GUWAHATI==========Paragraph:NFR/GUWAHATI==========Paragraph:NO.2022/Chg/16/NER/22(.)MINISTRYOFRAILWAYSDESIRESTHATANEWTRAINSHOULDBEINTRODUCEDBETWEENANANDVIHAR(T)ANDRADHIKAPURTOTHEFOLLOWINGTIMINGS:==========Paragraph:ANANDVIHAR(T)-==========Paragraph:4==========Paragraph:STATIONS==========Paragraph:1==========Paragraph:RADHIKAPUR-ANANDVIHAR(T)EXPRESS18:50(WED)==========Paragraph:RADHIKAPUREXPRESS==========Paragraph:23:45(SUN)==========Paragraph:D==========Paragraph:ANANDVIHAR(T)==========Paragraph:A==========Paragraph:00:21/00:23==========Paragraph:A/D==========Paragraph:GHAZIABAD==========Paragraph:A/D==========Paragraph:18:15/18:17==========Paragraph:01:00/01:05==========Paragraph:A/D==========Paragraph:HAPUR==========Paragraph:A/D==========Paragraph:17:05/17:10==========Paragraph:02:52/03:00==========Paragraph:A/D==========Paragraph:MORADABADA/D15:25/15:35==========Paragraph:03:55/04:00==========Paragraph:A/D==========Paragraph:CHANDAUSI==========Paragraph:A/D==========Paragraph:14:25/14:30==========Paragraph:08:12/08:22==========Paragraph:A/D==========Paragraph:SITAPURJUNCTION==========Paragraph:A/D==========Paragraph:08:45/08:55==========Paragraph:03:30/03:40==========Paragraph:A/D==========Paragraph:KATIHAR==========Paragraph:A/D==========Paragraph:13:30/13:40==========Paragraph:07:00(TUE)==========Paragraph:A==========Paragraph:RADHIKAPUR==========Paragraph:D==========Paragraph:10:30(TUE)==========Paragraph:FREQUENCY==========Paragraph:EX.ANANDVIHAR(T):SUNDAYS==========Paragraph:EX.RADHIKAPUR:TUESDAYS==========Paragraph:COMMERCIAL:GHAZIABAD,HAPUR,MORADABAD,CHANDAUSI,SITAPURSTOPPAGESJUNCTION,GONDA,MANKAPUR,BASTI,GORAKHPUR,ENROUTEKAPTANGANJ,NARKATIAGANJ,BETTIAH,SAGAULI,BAPUDHAMMOTIHARI,MUZAFFARPUR,SAMASTIPUR,BARAUNI,BEGUSARAI,KHAGARIA,MANSI,NAUGACHIA,KATIHAR,SONALI,SALMARI,BARSOI,==========Paragraph:PRIMARYMAINTAINANCE==========Paragraph:RAIGANJ,KALIYAGANJ==========Paragraph:ANANDVIHAR(T)==========Paragraph:THEABOVEINTRODUCTIONMAYBEGIVENEFFECTFROMANEARLYCONVENIENTDATEUNDERADVICETOTHISOFFICE(.)GIVEWIDEPUBLICITY(.)ENSURECOMPLIANCEANDACTIONACCORDINGLY(.)MATTERMOSTURGENT(.)==========Paragraph:COPYTO:==========Paragraph:KUMAR/RAILWAYS(.)==========Paragraph:15/03/24(\u0935\u093f\u0935\u0947\u0915\u0915\u0941\u092e\u093e\u0930\u0938\u093f\u0928\u094d\u0939\u093e)(VIVEKKUMARSINHA)\u0938\u0902\u092f\u0941\u0915\u094d\u0924\u0928\u093f\u0926\u0947\u0936\u0915/\u0915\u094b\u091a\u093f\u0902\u0917JOINTDIRECTOR/COACHING\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921/RAILWAYBOARD==========Paragraph:1.ED/PM,EDME/CHG.,DD/COACHING(OPERATIONS)INBOARD'SOFFICE2.CMD/IRCTC,NEWDELHI==========",
+            "expected_output": [
+                {
+                    "Train number": "None",
+                    "Train name": "RADHIKAPUR-ANANDVIHAR(T) EXPRESS",
+                    "Start Station name": "RADHIKAPUR",
+                    "End Station name": "ANANDVIHAR(T)",
+                    "Composition": "None",
+                    "Date of Issue": "15.03.2024"
+                }
+            ],
+            "predicted_output": [
+                {
+                    "Train number": "None",
+                    "Train name": "RADHIKAPUR-ANANDVIHAR(T) EXPRESS",
+                    "Start Station name": "RADHIKAPUR",
+                    "End Station name": "ANANDVIHAR(T)",
+                    "Composition": {
+                        "GS": 4,
+                        "SLR": 1
+                    },
+                    "Date of Issue": "15.03.2024"
+                }
+            ]
+        },
+        {
+            "test_id": 7,
+            "type": "introduction",
+            "text": "Paragraph:CC-191A/2024==========Paragraph:\u092d\u093e\u0930\u0924\u0938\u0930\u0915\u093e\u0930GOVERNMENTOFINDIA\u0930\u0947\u0932\u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092fMINISTRYOFRAILWAYS\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921(RAILWAYBOARD)==========Paragraph:POSTCOPY==========Paragraph:ISSUEDON11.03.2024==========Paragraph:THEGENERALMANAGER(OPTG)==========Paragraph:COPYTO:CPTM==========Paragraph:ECOR/BHUBANESWAR==========Paragraph:ECOR/BHUBANESWAR==========Paragraph:NO.2022/CHG/16/82PART-(28)(.)INSUPERSESSIONOFTHISOFFICEMESSAGEOFEVENNUMBERDATED09.03.2024,MINISTRYOFRAILWAYSDESIRESTHATANEWVANDEBHARATTRAINSHOULDBEINTRODUCEDBETWEENBHUBANESWARANDVISAKHAPATNAMASUNDER(.)==========Paragraph:20841BHUBANESWAR-VISAKHAPATNAMVANDEBHARATEXPRESS==========Paragraph:1==========Paragraph:STATIONS==========Paragraph:1==========Paragraph:20842==========Paragraph:VISAKHAPATNAM-BHUBANESWARVANDEBHARATEXPRESS==========Paragraph:05:15==========Paragraph:D==========Paragraph:BHUBANESWAR==========Paragraph:A==========Paragraph:21:30==========Paragraph:05:33/05:35A/DKHURDAROADA/D==========Paragraph:20:57/20:59==========Paragraph:06:23/06:25A/D==========Paragraph:BALUGAON==========Paragraph:A/D==========Paragraph:19:52/19:54==========Paragraph:07:05/07:07==========Paragraph:A/D==========Paragraph:BRAHMAPUR==========Paragraph:A/D==========Paragraph:19:00/19:02==========Paragraph:07:18/07:20==========Paragraph:A/D==========Paragraph:ICHCHAPURAM==========Paragraph:A/D==========Paragraph:18:40/18:42==========Paragraph:08:18/08:20==========Paragraph:A/D==========Paragraph:PALASA==========Paragraph:A/D==========Paragraph:18:10/18:12==========Paragraph:09:03/09:05A/D==========Paragraph:SRIKAKULAMROADVIZIANAGRAM==========Paragraph:A/D17:08/17:10==========Paragraph:09:48/09:50A/D==========Paragraph:A/D==========Paragraph:16:18/16:20==========Paragraph:11:00A==========Paragraph:VISAKHAPATNAMD15:30==========Paragraph:DAYSOFOPERATION:==========Paragraph:06DAYSAWEEK(EXCEPTMONDAY)==========Paragraph:COMMERCIAL:KHURDA==========Paragraph:ROAD,==========Paragraph:BALUGAON,==========Paragraph:BRAHMAPUR,==========Paragraph:STOPPAGEENROUTE==========Paragraph:ICHCHAPURAM,==========Paragraph:PALASA,==========Paragraph:SRIKAKULAM==========Paragraph:ROAD,==========Paragraph:VIZIANAGRAM==========Paragraph:COMPOSITION==========Paragraph::==========Paragraph:08VANDEBHARATCOACHES==========Paragraph:PRIMARYMAINTENANCE==========Paragraph:..==========Paragraph:BHUBANESWARWITHRBPC==========Paragraph:THEABOVEINTRODUCTIONMAYBEGIVENEFFECTFROMANEARLYCONVENIENTDATEUNDERADVICETOTHISOFFICE(.)IFREQUIRED,THEINAUGURALTRAINMAYBEPLANNEDASASPECIALSERVICEWHICHSHOULDPICKUPITSLINKSUBSEQUENTLY(.)GIVEWIDEPUBLICITY(.)ENSURECOMPLIANCEANDACTIONACCORDINGLY(.)MATTERMOSTURGENT(.)==========Paragraph:KUMAR/RAILWAYS(.)==========Paragraph:COPYTO:==========Paragraph:11/03/24(\u0935\u093f\u0935\u0947\u0915\u0915\u0941\u092e\u093e\u0930\u0938\u093f\u0928\u094d\u0939\u093e)(VIVEKKUMARSINHA)\u0938\u0902\u092f\u0941\u0915\u094d\u0924\u0928\u093f\u0926\u0947\u0936\u0915(\u0915\u094b\u091a\u093f\u0902\u0917)JOINTDIRECTOR(COACHING)\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921/RAILWAYBOARD==========Paragraph:1.EDPG/MR,EDME/CHG,ED/PM,DD/COACHING(OPERATIONS)INBOARD'SOFFICE.2.CMD/IRCTC,NEWDELHI==========",
+            "expected_output": [
+                {
+                    "Train number": "20841",
+                    "Train name": "BHUBANESWAR-VISAKHAPATNAM VANDEBHARAT EXPRESS",
+                    "Start Station name": "BHUBANESWAR",
+                    "End Station name": "VISAKHAPATNAM",
+                    "Composition": {
+                        "VANDEBHARAT COACHES": 8
+                    },
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "20842",
+                    "Train name": "VISAKHAPATNAM-BHUBANESWAR VANDEBHARAT EXPRESS",
+                    "Start Station name": "VISAKHAPATNAM",
+                    "End Station name": "BHUBANESWAR",
+                    "Composition": {
+                        "VANDEBHARAT COACHES": 8
+                    },
+                    "Date of Issue": "11.03.2024"
+                }
+            ],
+            "predicted_output": [
+                {
+                    "Train number": "20841",
+                    "Train name": "BHUBANESWAR-VISAKHAPATNAM VANDEBHARAT EXPRESS",
+                    "Start Station name": "BHUBANESWAR",
+                    "End Station name": "VISAKHAPATNAM",
+                    "Composition": {
+                        "VANDEBHARAT COACHES": 8
+                    },
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "20842",
+                    "Train name": "VISAKHAPATNAM-BHUBANESWAR VANDEBHARAT EXPRESS",
+                    "Start Station name": "VISAKHAPATNAM",
+                    "End Station name": "BHUBANESWAR",
+                    "Composition": {
+                        "VANDEBHARAT COACHES": 8
+                    },
+                    "Date of Issue": "11.03.2024"
+                }
+            ]
+        },
+        {
+            "test_id": 8,
+            "type": "introduction",
+            "text": "Paragraph:\u092d\u093e\u0930\u0924\u0938\u0930\u0915\u093e\u0930GOVERNMENTOFINDIA\u0930\u0947\u0932\u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092fMINISTRYOFRAILWAYS\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921(RAILWAYBOARD)==========Paragraph:CC-==========Paragraph:52/2024==========Paragraph:FAX/POSTCOPYISSUEDON25.01.2024==========Paragraph:THEGENERALMANAGER(OPTG)==========Paragraph:ER/KOLKATA==========Paragraph:COPYTO:CPTM==========Paragraph:ER/KOLKATA==========Paragraph:NO.2024/Chg/16/ER/08(.)CONNECT==========Paragraph:EASTERNRAILWAYS'==========Paragraph:LETTERNO.TT./582/223/MLDT/PT.IXDATED17.01.2024REGARDINGINTRODUCTIONOFNEWTRAINDEOGHAR-GODDAPASSENGERSPECIALVIAMOHANPUR-HARLATANR-HANSDIHA(.)MINISTRYOFRAILWAYSAPPROVESER'SPROPOSALFORTHEINTRODUCTIONOFANEWDEMUSERVICEBETWEENDEOGHARANDGODDAASUNDER:-==========Paragraph:DEOGHAR-HANSDIHA-GODDADEMUSPECIAL10.35==========Paragraph:(1)STATION(1)==========Paragraph:11.58/12.00==========Paragraph:12.40==========Paragraph:D==========Paragraph:A/D==========Paragraph:A==========Paragraph:DEOGHAR==========Paragraph:A==========Paragraph:15.15==========Paragraph:HANSDIHA==========Paragraph:GODDA==========Paragraph:A/D==========Paragraph:13.28/13.30==========Paragraph:D==========Paragraph:12.50==========Paragraph:GODDA-HANSDIHA-DEOGHARDEMUSPECIAL==========Paragraph:COMMERCIALSTOPPAGES:ALLSTATIONSENROUTE==========Paragraph:DAYSOFOPERATION==========Paragraph::==========Paragraph:PRIMARYMAINTENANCE==========Paragraph::==========Paragraph:06DAYSAWEEK(EXCEPTSUNDAY)==========Paragraph:SAHIBGANJWITHRBPC==========Paragraph:THEABOVEINTRODUCTIONMAYBEGIVENEFFECTFROMANEARLYCONVENIENTDATEUNDERADVICETOTHISOFFICE(.)GIVEWIDEPUBLICITY(.)ENSURECOMPLIANCEANDCONFIRM(.)MATTERMOSTURGENT(.)==========Paragraph:KUMAR/RAILWAYS(.)==========Paragraph:-==========Paragraph:COPYTO:==========Paragraph:25.01.24.(\u0930\u093e\u091c\u0947\u0936\u0915\u0941\u092e\u093e\u0930)(RAJESHKUMAR)\u0909\u092a-\u0928\u093f\u0926\u0947\u0936\u0915(\u0915\u094b\u091a\u093f\u0902\u0917)DY.DIRECTOR/COACHING\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921/RAILWAYBOARD==========Paragraph:1.EDPM,EDME/CHG,DD(PUNCTUALITY)INBOARD'SOFFICE.==========Paragraph:2.CMD/IRCTC,NEWDELHI==========",
+            "expected_output": [
+                {
+                    "Train number": "None",
+                    "Train name": "DEOGHAR-HANSDIHA-GODDA DEMU SPECIAL",
+                    "Start Station name": "DEOGHAR",
+                    "End Station name": "GODDA",
+                    "Composition": "None",
+                    "Date of Issue": "25.01.2024"
+                }
+            ],
+            "predicted_output": [
+                {
+                    "Train number": "None",
+                    "Train name": "DEOGHAR-HANSDIHA-GODDA DEMU SPECIAL",
+                    "Start Station name": "DEOGHAR",
+                    "End Station name": "GODDA",
+                    "Composition": "None",
+                    "Date of Issue": "25.01.2024"
+                }
+            ]
+        },
+        {
+            "test_id": 9,
+            "type": "stoppage",
+            "text": "Paragraph:CC-198A/2024==========Paragraph:\u092d\u093e\u0930\u0924\u0938\u0930\u0915\u093e\u0930/GOVERNMENTOFINDIA\u0930\u0947\u0932\u092e\u0902\u0924\u094d\u0930\u093e\u0932\u092f/MINISTRYOFRAILWAYS\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921/(RAILWAYBOARD)==========Paragraph:POSTCOPYISSUEDON11.03.2024==========Paragraph:THEGENERALMANAGERs(OPTG.)==========Paragraph:COPYTO:CPTMs==========Paragraph:ALLZONALRAILWAYS==========Paragraph:ALLZONALRAILWAYS==========Paragraph:NO.2023/Chg/13/13(.)MINISTRYOFRAILWAYSDESIRESTHATEXPERIMENTALSTOPPAGEOFTHEFOLLOWINGTRAIN(S)SHOULDBEPROVIDEDATTHESTATION(S)ANDWITHEFFECTFROMTHEDATE(S)INDICATEDALONGSIDE(.)==========Paragraph:SL119165/19166==========Paragraph:219167/19168AHMEDABAD-==========Paragraph:322537/22538GORAKHPUR-AIT==========Paragraph:402563/02564BARAUNI-NEWDELHISPECIALEXPRESS==========Paragraph:502569/02570DARBHANGA-NEW==========Paragraph:615023/15024GORAKHPUR-==========Paragraph:715903/15904CHANDIGARHEXPRESS==========Paragraph:819053/19054SURAT-MUZAFFARPUREXPRESS==========Paragraph:922539/22540MAU-ANANDVIHAR(T)EXPRESS1015273/15274RAXAUL-ANANDVIHAR(T)SATYAGRAHAEXPRESS==========Paragraph:11==========Paragraph:1212319/12320EXPRESS==========Paragraph:1319165/19166AHMEDABAD-DARBHANGASABARMATIEXPRESS==========Paragraph:1419167/19168AHMEDABAD-VARANASICITYSABARMATIEXPRESS==========Paragraph:1512593/12594==========Paragraph:1622467/22468VARANASI-ORAIEARLYCONVENIENTDATE==========Paragraph:TRAINNO.ANDNAME==========Paragraph:STATION==========Paragraph:AHMEDABAD-DARBHANGASABARMATIEXPRESS==========Paragraph:AIT==========Paragraph:AIT==========Paragraph:VARANASICITYSABARMATIEXPRESS==========Paragraph:LOKMANYATILAK(T)EXPRESS==========Paragraph:BASTI==========Paragraph:BASTI==========Paragraph:DELHISPECIALEXPRESS==========Paragraph:BASTI==========Paragraph:YESVANTPUREXPRESS==========Paragraph:DIBRUGARH-BASTI==========Paragraph:DHAULPUR==========Paragraph:EARLYCONVENIENT==========Paragraph:DATE==========Paragraph:DULLHAPUREARLYCONVENIENTDATE==========Paragraph:GAUR==========Paragraph:12403/12404PRAYAGRAJ-BIKANEREXPRESSKOLKATA-GWALIOR==========Paragraph:JHINJHAK==========Paragraph:EARLYCONVENIENT==========Paragraph:DATE==========Paragraph:KANNAUJ==========Paragraph:MOTH==========Paragraph:MOTH==========Paragraph:LUCKNOW-BHOPALORAI==========Paragraph:EXPRESS==========Paragraph:GANDHINAGARCAPITALEXPRESS==========Paragraph:1Juks==========Paragraph:W.E.F.==========Paragraph:EARLYCONVENIENTDATE==========Paragraph:EARLYCONVENIENTDATE==========Paragraph:EARLYCONVENIENTDATE==========Paragraph:EARLYCONVENIENTDATEEARLYCONVENIENTDATE==========Paragraph:EARLYCONVENIENTDATE==========Paragraph:EARLYCONVENIENT==========Paragraph:DATE==========Paragraph:EARLYCONVENIENT==========Paragraph:DATE==========Paragraph:EARLYCONVENIENTDATEEARLYCONVENIENTDATEEARLYCONVENIENTDATE==========Paragraph:EARLYCONVENIENTDATE==========Paragraph:1718101/18102TAWIEXPRESS1818309/18310TAWIEXPRESS==========Paragraph:TATANAGAR-JAMMU==========Paragraph:RURA==========Paragraph:SAMBALPUR-JAMMU==========Paragraph:RURA==========Paragraph:19==========Paragraph:20403/20404==========Paragraph:EXPRESS==========Paragraph:PRAYAGRAJ-BIKANER==========Paragraph:SIRATHU==========Paragraph:20==========Paragraph:19107/19108==========Paragraph:MARTYRCAPTAINTUSHARMAHAJAN==========Paragraph:JANMABHOOMIEXPRESS==========Paragraph:BHAVNAGAR==========Paragraph:(T)-==========Paragraph:SULTANPUR==========Paragraph:LODHI==========Paragraph:2119415/19416SABARMATI-SHRIMATAVAISHNODEVIKATRAEXPRESS==========Paragraph:SULTANPUR==========Paragraph:LODHI==========Paragraph:22==========Paragraph:11071LOKMANYATILAK(T)-BALLIA==========Paragraph:KAMAYANIEXPRESS==========Paragraph:SURIAWAN==========Paragraph:EARLYCONVENIENTDATE==========Paragraph:EARLYCONVENIENTDATE==========Paragraph:EARLYCONVENIENT==========Paragraph:DATE==========Paragraph:EARLYCONVENIENTDATE==========Paragraph:EARLYCONVENIENT==========Paragraph:DATE==========Paragraph:EARLYCONVENIENTDATE==========Paragraph:ACLOSEWATCHSHOULDBEKEPTATTHESALEOFTICKETSATTHESTATION(S)FORREVIEW(.)GIVEWIDEPUBLICITY(.)ENSURECOMPLIANCEANDCONFIRM(.)==========Paragraph:KUMAR/RAILWAYS(.)==========Paragraph:Khuks==========Paragraph:11/03/24(\u0935\u093f\u0935\u0947\u0915\u0915\u0941\u092e\u093e\u0930\u0938\u093f\u0928\u094d\u0939\u093e)(VIVEKKUMARSINHA)\u0938\u0902\u092f\u0941\u0915\u094d\u0924\u0928\u093f\u0926\u0947\u0936\u0915/\u0915\u094b\u091a\u093f\u0902\u0917JOINTDIRECTOR/COACHING\u0930\u0947\u0932\u0935\u0947\u092c\u094b\u0930\u094d\u0921/RAILWAYBOARD==========Paragraph:COPYTO:==========Paragraph:1.EDPM,DD/CHG(OPERATIONS)INBOARD'SOFFICE.2.CMD/IRCTC,NEWDELHI.==========",
+            "expected_output": [
+                {
+                    "Train number": "19165/19166",
+                    "Train name": "AHMEDABAD-DARBI ANGA SABARMATI EXPRESS",
+                    "Stoppage Station name": "AIT",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "19167/19168",
+                    "Train name": "AHMEDABAD-VARANASI CITY SABARMATI EXPRESS",
+                    "Stoppage Station name": "AIT",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "22537/22538",
+                    "Train name": "GORAKHPUR-LOKMANYA TILAK (T) EXPRESS",
+                    "Stoppage Station name": "AIT",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "02563/02564",
+                    "Train name": "BARAUNT-NEW DELHI SPECIAL EXPRESS",
+                    "Stoppage Station name": "BASTI",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "02569/02570",
+                    "Train name": "DARBHANGA-NEW YESVANTPUR EXPRESS",
+                    "Stoppage Station name": "BASTI",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "5023/15024",
+                    "Train name": "GORAKHPUR-DELHI SPECIAL EXPRESS",
+                    "Stoppage Station name": "BASTI",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "15903/15904",
+                    "Train name": "DIBRUGARH- BASTI CHANDIGARH EXPRESS",
+                    "Stoppage Station name": "DHAULPUR",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "19053/19054",
+                    "Train name": "SURAT-MUZAFFARPUR EXPRESS",
+                    "Stoppage Station name": "DHAULPUR",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "22539/22540",
+                    "Train name": "MAU-ANAND VIHAR(T) EXPRESS",
+                    "Stoppage Station name": "DULLHAPUR",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "15273/15274",
+                    "Train name": "RAXAUL-ANAND VIHAR(T) SATYAGRAHA EXPRESS",
+                    "Stoppage Station name": "GAUR",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "12403/12320",
+                    "Train name": "PRAYAGRAJ-BIKANER EXPRESS",
+                    "Stoppage Station name": "JHINJHAK",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "12319/12320",
+                    "Train name": "KOLKATA-GWALTOR EXPRESS",
+                    "Stoppage Station name": "KANNAUJ",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "19165/19166",
+                    "Train name": "AHMEDABAD-VARANASI CITY SABARMATI EXPRESS",
+                    "Stoppage Station name": "MOTH",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "19167/19168",
+                    "Train name": "AHMEDABAD-VARANASI CITY SABARMATI EXPRESS",
+                    "Stoppage Station name": "MOTH",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "12593/12594",
+                    "Train name": "LUCKNOW-BHOPAL EXPRESS",
+                    "Stoppage Station name": "ORAI",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "22467/22468",
+                    "Train name": "VARANAST-GANDHINAGAR CAPITAL EXPRESS",
+                    "Stoppage Station name": "ORAI",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "18101/18102",
+                    "Train name": "TATANAGAR-JAMMU TWAI EXPRESS",
+                    "Stoppage Station name": "RURA",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "18309/18310",
+                    "Train name": "SAMBALPUR-JAMMU TWAI EXPRESS",
+                    "Stoppage Station name": "RURA",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "2O4O3/2O4O4",
+                    "Train name": "PRAYAGRA.I-BIKANER EXPRESS",
+                    "Stoppage Station name": "SIRATHU",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "19107/19108",
+                    "Train name": "BFTAVNAGAR (T)-MARTYR CAPTAIN TUSHAR MAHAJAN JANMABHOOMI EXPRESS",
+                    "Stoppage Station name": "SULTANPUR LODHI",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "19415/19416",
+                    "Train name": "SABARMATI-SHRI MATA VAISHNO DEVI KATRA EXPRESS",
+                    "Stoppage Station name": "SULTANPUR LODHI",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "11071",
+                    "Train name": "LOKMANYA TILAK (T)-BALLIA KAMAYANI EXPRESS",
+                    "Stoppage Station name": "SURIAWAN",
+                    "Date of Issue": "11.03.2024"
+                }
+            ],
+            "predicted_output": [
+                {
+                    "Train number": "9165/19166",
+                    "Train name": "Ahmedabad-Darbhanga Sabarmati Express",
+                    "Stoppage Station name": "Ait",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "9167/19168",
+                    "Train name": "Ahmedabad-Varanasi City Sabarmati Express",
+                    "Stoppage Station name": "Ait",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "2563/02564",
+                    "Train name": "Barauni-New Delhi Special Express",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "2569/02570",
+                    "Train name": "Darbhanga-New",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "5023/15024",
+                    "Train name": "Gorakhpur-",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "5903/15904",
+                    "Train name": "Chandigarh Express",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "9053/19054",
+                    "Train name": "Surat-Muzaffarpur Express",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "2539/22540",
+                    "Train name": "Mau-Anand Vihar(T) Express1015273/15274 Raxaul-Anand Vihar(T) Satyagraha Express",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "2319/12320",
+                    "Train name": "Express",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "9165/19166",
+                    "Train name": "Ahmedabad-Darbhanga Sabarmati Express",
+                    "Stoppage Station name": "Ait",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "9167/19168",
+                    "Train name": "Ahmedabad-Varanasi City Sabarmati Express",
+                    "Stoppage Station name": "Ait",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "12593/12594",
+                    "Train name": "None",
+                    "Stoppage Station name": "Ait",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "22467/22468",
+                    "Train name": "Varanasi-Orai Early Convenient Date",
+                    "Stoppage Station name": "Ait",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Lokmanyatilak(T) Express",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Basti",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Delhi Special Express",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Yesvantpur Express",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Dibrugarh-Basti",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Dhaulpur",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Early Convenient Date",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Dullhapur Early Convenient Date",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Gaur",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "12403/12404",
+                    "Train name": "Prayagraj-Bikaner Express Kolkata-Gwalior",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Jhinjhak",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Early Convenient Date",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Kannauj",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Moth",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Lucknow-Bhopalorai Express Gandhinagar Capital Express",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "Juks",
+                    "Train name": "None",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Early Convenient Date",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Early Convenient Date",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Early Convenient Date",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Early Convenient Date",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Tawi Express",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Tawi Express",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Tatanagar-Jammu Rura",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Sambalpur-Jammu Rura",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "None",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Prayagraj-Bikaner Sirathu",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Martyr Captain Tushar Mahajan Janmabhoomi Express",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Bhavnagar (T)- Sultanpur Lodhi",
+                    "Stoppage Station name": "Basti",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "19415/19416",
+                    "Train name": "Sabarmati-Shrimata Vaishno Devi Katra Express",
+                    "Stoppage Station name": "Sultanpur Lodhi",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "None",
+                    "Stoppage Station name": "Sultanpur Lodhi",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "11071",
+                    "Train name": "Lokmanyatilak(T)-Ballia Kamayani Express",
+                    "Stoppage Station name": "Suriawan",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Early Convenient Date",
+                    "Stoppage Station name": "Suriawan",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Early Convenient Date",
+                    "Stoppage Station name": "Suriawan",
+                    "Date of Issue": "11.03.2024"
+                },
+                {
+                    "Train number": "None",
+                    "Train name": "Early Convenient Date",
+                    "Stoppage Station name": "Suriawan",
+                    "Date of Issue": "11.03.2024"
+                }
+            ]
+        }
+    ]
+}
