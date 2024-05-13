@@ -7,12 +7,15 @@ from encoding_scripts import (
     get_policy_encoding_extension_results
 )
 from dotenv import load_dotenv
+import re
 
 load_dotenv()
 
 openai.api_key = os.getenv("API_KEY")
 openai.api_type = os.getenv("API_TYPE")
 
+
+# pattern = r"(\d+)[^\d/]*/.*"
 def get_results(extracted_text, type):
     if type == "stoppage":
         encoded_data = get_policy_encoding_stoppage_results(extracted_text)
@@ -24,15 +27,15 @@ def get_results(extracted_text, type):
 
 # Load subjects from CSV
 subjects_dict = {}
-subject_csv_path = 'data/2024_table_data.csv'
+subject_csv_path = 'data/2016_table_data.csv'
 with open(subject_csv_path, mode='r', newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         subjects_dict[row['CC NO.']] = row['SUBJECT']
 
 # Define the path to the directory containing the files
-directory_path = 'results/json_to_txt/2024'
-output_csv_path = 'results/Year_wise_csv/Railway_data_2024_with_subject.csv'
+directory_path = 'results/json_to_txt/2016'
+output_csv_path = 'results/Year_wise_csv/Railway_data_2016_with_subject.csv'
 
 # Write results to CSV
 with open(output_csv_path, mode='w', newline='', encoding='utf-8') as file:
@@ -53,7 +56,7 @@ with open(output_csv_path, mode='w', newline='', encoding='utf-8') as file:
                 file_type = 'stoppage'
             elif file_type_prefix == 'EX':
                 file_type = 'extension'
-            elif file_type_prefix == 'IN':
+            elif file_type_prefix == 'IN': 
                 file_type = 'introduction'
 
             # Read the file content

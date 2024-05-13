@@ -1,8 +1,11 @@
 import csv
+import re
 
+#pattern for 2021
+# pattern = r"(\d+)[^\d/]*/.*"  
 # Paths to your CSV files
-csv_path1 = 'data/2024_table_data.csv'  
-csv_path2 = 'results/Year_wise_csv/Railway_data_2024_with_subject.csv' 
+csv_path1 = 'data/2018_table_data.csv'  
+csv_path2 = 'results/Year_wise_csv/Railway_data_2018_with_subject.csv' 
 
 # Load DATE from the first CSV into a dictionary using CC No. as the key
 dates = {}
@@ -10,6 +13,9 @@ with open(csv_path1, mode='r', newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         cc_no = row['CC NO.']
+        # match = re.match(pattern, cc_no)
+        # if match:
+        #     cc_no = match.group(1)  
         dates[cc_no] = row['DATE']
 
 # Read the second CSV and update Date of Issue from the dates dictionary
@@ -18,6 +24,8 @@ with open(csv_path2, mode='r', newline='', encoding='utf-8') as csvfile2:
     reader = csv.DictReader(csvfile2)
     for row in reader:
         cc_no = row['CC No.']
+
+
         # Update the Date of Issue if there is a matching CC No. with a new date
         if cc_no in dates:
             row['Date of Issue'] = dates[cc_no]

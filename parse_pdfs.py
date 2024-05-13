@@ -4,6 +4,7 @@ from azure.ai.formrecognizer import DocumentAnalysisClient
 from azure.core.credentials import AzureKeyCredential
 import csv
 from dotenv import load_dotenv
+import re
 
 load_dotenv()
 
@@ -22,10 +23,10 @@ endpoint = os.getenv('ENDPOINT')
 document_analysis_client = DocumentAnalysisClient(endpoint=endpoint, credential=AzureKeyCredential(key))
 
 # Define the directory path where PDF files are located
-directory_path = "pdfs/2024_filtered_pdfs"
+directory_path = "pdfs/2016_filtered_pdfs"
 
 # Specify the folder path to save JSON files
-output_folder = "results/parsed_2024"
+output_folder = "results/parsed_2016"
 
 
 # Create the output folder if it doesn't exist
@@ -34,7 +35,7 @@ os.makedirs(output_folder, exist_ok=True)
 
 
 # Load the mapping from the CSV file
-csv_file_path = 'data/2024_table_data.csv'
+csv_file_path = 'data/2016_table_data.csv'
 type_mapping = {}
 with open(csv_file_path, mode='r', newline='', encoding='utf-8') as file:
     reader = csv.DictReader(file)
@@ -45,8 +46,8 @@ with open(csv_file_path, mode='r', newline='', encoding='utf-8') as file:
         cc_no = row['CC NO.']
         type_mapping[pdf_name] = (file_type, cc_no)
 
-
-
+pattern = r"^[^/]+/[^/]+/([^/]+)"
+count = 1
 for filename in os.listdir(directory_path):
     if filename.endswith(".pdf"): 
         document_path = os.path.join(directory_path, filename)
@@ -61,12 +62,15 @@ for filename in os.listdir(directory_path):
                 
             # Determine the output file type from the CSV mapping
             file_type, cc_no = type_mapping.get(filename, 'Unknown')
-            year="2024"
-            
+            year="2016"
+            match = re.match(pattern, cc_no)
+            if match:
+                cc_no = match.group(1)  # The first capturing group contains the digits
             # Construct the output file path with type
-            output_filename = f"Parsed_{file_type}_{year}_{cc_no}.json"
-            output_file_path = os.path.join(output_folder, output_filename)
             
+            output_filename = f"Parsed_{file_type}_{year}_{cc_no}_{count}.json"
+            output_file_path = os.path.join(output_folder, output_filename)
+            count+=1
             # Save the results to a JSON file in the output folder
             with open(output_file_path, "w") as f:
                 json.dump(result_dict, f, indent=4)

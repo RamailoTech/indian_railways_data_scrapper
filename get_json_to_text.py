@@ -14,11 +14,12 @@ def append_text_to_file(filename, text):
         file.write(text + "\n")
         
 # Define the directory containing the JSON files
-json_dir = 'results/parsed_2024'
-output_dir = 'results/json_to_txt/2024'
+json_dir = 'results/parsed_2016'
+output_dir = 'results/json_to_txt/2016'
 
 # Make sure output directory exists
 os.makedirs(output_dir, exist_ok=True)
+
 
 # Iterate over each file in the directory
 for filename in os.listdir(json_dir):
@@ -26,11 +27,13 @@ for filename in os.listdir(json_dir):
         file_path = os.path.join(json_dir, filename)
         
         # Use regex to define the output filename from the input filename
-        match = re.match(r'Parsed_([A-Z]+)_2024_(\d+)\.json', filename)
+        # match = re.match(r'Parsed_([A-Z]+)_2016_(\d+)\.json', filename)
+        match = re.match(r'Parsed_([A-Z]+)_2016_(\d+)_(\d+)\.json',filename)
         if match:
             file_type = match.group(1)
             file_number = match.group(2)
-            output_filename = f"{file_type}_{file_number}.txt"
+            count = match.group(3)
+            output_filename = f"{file_type}_{file_number}_{count}.txt"
             output_file_path = os.path.join(output_dir, output_filename)
         else:
             continue  
