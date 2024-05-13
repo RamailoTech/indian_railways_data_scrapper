@@ -1,0 +1,64 @@
+CC No.,Type,Train number,Train name,Start Station name,End Station name,Stoppage Station name,Date of Issue
+44,introduction,20955,SURAT-MAHUVA EXPRESS,SURAT,MAHUVA,,18.08.2021
+44,introduction,20956,MAHUVA-SURAT EXPRESS,MAHUVA,SURAT,,18.08.2021
+61,introduction,None,RANCHI-CHOPAN SPECIAL EXPRESS,RANCHI,CHOPAN,, 08.11.2021
+61,introduction,None,CHOPAN-RANCHI SPECIAL EXPRESS,CHOPAN,RANCHI,, 08.11.2021
+64,stoppage,02951/52,Mumbai-New Delhi Rajdhani Special Express,,,Nagda,15.11.2021
+64,stoppage,09039/40,Bandra (T)-Barauni Special Express,,,Vikramgarh Alot,15.11.2021
+64,stoppage,09019/20,Bandra(T)-Dehradun Special Express,,,Mahidpur Road,15.11.2021
+64,stoppage,02943/44,Indore-Daund Special Express,,,Khachrod,15.11.2021
+66,introduction,None,KANPUR- UTRATIA MEMU,KANPUR,UTRAHTIA,, 18.11.2021
+66,introduction,None,UTRAHTIA KANPUR MEMU,UTRAHTIA,KANPUR,, 18.11.2021
+59,extension,07337,HUBBALLI-GUNTAKAL EXPRESS SPECIAL,,GUNTAKAL,,18.10.2021
+59,extension,07338,GUNTAKAL-HUBBALLI EXPRESS SPECIAL,,GUNTAKAL,,18.10.2021
+57,stoppage,05027/05028,Hatia-Gorakhpur Special Express,,,Jamtara,10.10.2021
+67,stoppage,12353/12354,Howrah-Lalkuan Express,,,Sasaram,22.11.2021
+69,stoppage,22405/22406,Bhagalpur-Anand Vihar Garib Rath Express,,,Abhaipur,03.12.2021
+70,stoppage,12957/12958,Ahmedabad-New Delhi Swarna Jayanti Rajdhani Express,,,Sabarmati,21.12.2021
+48,stoppage,02781/02782,Tirupati-H. Nizamuddin Special Train,,,Gwalior,23.09.2021
+56,stoppage,12283,Ernakulam-H. Nizamuddin Duronto Express,,,Surat,27.09.2021
+56,stoppage,12284,H. Nizamuddin-Ernakulam Duronto Express,,,Surat,27.09.2021
+65,stoppage,07319/07320,Hubballi-Hyderabad Special Express,,,Shahabad,17.11.2021
+65,stoppage,06339/06340,CSMT-Nagercoil Special Express,,,Shahabad,17.11.2021
+55,stoppage,13015/13016,Howrah-Bhagalpur Kaviguru Express,,,Nonihat,25/09/2021
+50,stoppage,02101/02102,Howrah-Lokmanya Tilak (T) Special,,,Santragachi,14.09.2021
+50,stoppage,02905/02906,Howrah-Okha Festival Special,,,Santragachi,14.09.2021
+50,stoppage,09205/09206,Howrah-Porbandar Festival Special,,,Santragachi,14.09.2021
+50,stoppage,02543/02544,Howrah-MGR Chennai Central Special,,,Santragachi,14.09.2021
+50,stoppage,08645/08646,Howrah-Hyderabad Decan Special,,,Santragachi,14.09.2021
+50,stoppage,08047/08048,Howrah-Vasco-Da-Gama Special,,,Santragachi,14.09.2021
+50,stoppage,02087/2088,Howrah-Puri Special,,,Santragachi,14.09.2021
+50,stoppage,None,None,,,Santragachi,14.09.2021
+46,stoppage,08451/08452,Puri-Hatia Special,,,Bagdehi,01.09.2021
+37,introduction,22468,GANDHINAGAR CAPITAL-VARANASI EXPRESS,GANDHINAGAR CAPITAL,VARANASI,,14.07.2021
+37,introduction,22467,VARANASI-GANDHINAGAR CAPITAL EXPRESS,VARANASI,GANDHINAGAR CAPITAL,,14.07.2021
+37,introduction,69207,GANDHINAGAR-VARETHA MEMU,GANDHINAGAR CAPITAL,VARETHA,,14.07.2021
+37,introduction,69208,VARETHA-GANDHINAGAR MEMU,VARETHA,GANDHINAGAR CAPITAL,,14.07.2021
+58,stoppage,20955/20956,Surat-Mahuva Express,,,Liliya Mota,12.10.2021
+43,stoppage,12217/12218,Kochuveli-Chandigarh Sampark Kranti Express,,,Surat,18.08.2021
+62,introduction,69211,Ujjain-Indore,UJJAIN,INDORE,,12.11.2021
+62,introduction,69213,Ujjain-Indore,UJJAIN,INDORE,,12.11.2021
+62,introduction,69212,Indore-Ujjain,INDORE,UJJAIN,,12.11.2021
+62,introduction,69214,Indore-Ujjain,INDORE,UJJAIN,,12.11.2021
+73,stoppage,19327/28,Ratlam-Udaipur Express,,,Malhargarh,29.12.2021
+73,stoppage,09801/02,Nagda-Kota Special Express,,,Garot,29.12.2021
+73,stoppage,20941/20942,Bandra Terminus-Ghazipur City Bi-Weekly,,,Shamgarh,29.12.2021
+73,stoppage,19037/19038,Bandra Terminus-Barauni Express,,,Shamgarh,29.12.2021
+73,stoppage,20845/20846,Bilaspur-Bikaner,,,Suwasra,29.12.2021
+73,stoppage,14801/14802,Jodhpur-Indore Express,,,Dalauda,29.12.2021
+73,stoppage,17019/17020,Jaipur-Hyderabad Express,,,Jaora,29.12.2021
+73,stoppage,19329/19330,Indore-Udaipur Express,,,Jawad Road,29.12.2021
+73,stoppage,19329/19330,Indore-Udaipur Express,,,Piplia,29.12.2021
+71,extension,12009,MUMBAI CENTRAL- GANDHINAGAR CAPITAL SHATABDI EXPRESS,,GANDHINAGAR CAPITAL,,21.12.2021
+71,extension,12010,GANDHINAGAR CAPITAL- MUMBAI CENTRAL SHATABDI EXPRESS,,GANDHINAGAR CAPITAL,,21.12.2021
+74,stoppage,11109/10,Jhansi-Lucknow Express,,,Chirgaon,31.12.2021
+51,extension,05887,GUWAHATI- NEW HAFLONG EXPRESS,,BADARPUR,,16.09.2021
+51,extension,05888,GUWAHATI- NEW HAFLONG EXPRESS,,BADARPUR,,16.09.2021
+51,extension,02001,GUWAHATI-NAHARLAGUN SPECIAL EXPRESS,,None,,16.09.2021
+51,extension,02002,GUWAHATI-NAHARLAGUN SPECIAL EXPRESS,,None,,16.09.2021
+49,introduction,14009/10,BAPUDHAM MOTIHARI-ANAND VIHAR (T)-CHAMPARAN SATYAGRAH EXPRESS,BAPUDHAM MOTIHARI,ANAND VIHAR (T),, 09.09.2021
+63,stoppage,02615/02616,MGR Chennai-New Delhi Special Express,,,Hinganghat,15.11.2021
+63,stoppage,01039/01040,Kolhapur-Gondia Special Express,,,Chandur,15.11.2021
+63,stoppage,02169/02170,CSMT-Nagpur Special Express,,,Pulgaon,15.11.2021
+54,extension,09483,AHMEDABAD-ASANSOL SPL,,ASANSOL,, 22.09.2021
+54,extension,09484,ASANSOL-AHMEDABAD SPL,,ASANSOL,, 22.09.2021

@@ -1,0 +1,13 @@
+CC No.,Type,Train number,Train name,Start Station name,End Station name,Stoppage Station name,Date of Issue
+286,introduction,13181/13182,KOLKATA-SILGHAT EXPRESS,KOLKATA,SILGHAT,,01.01.2019
+286,introduction,13182/13181,SILGHAT-KOLKATA EXPRESS,SILGHAT,KOLKATA,,01.01.2019
+288,stoppage,12681,Chennai Central-Coimbatore Express,,,Coimbatore North,11.12.2018
+288,stoppage,22665,KSR Bengaluru-Coimbatore Uday Express,,,Coimbatore North,11.12.2018
+288,stoppage,12648,H Nizamuddin-Coimbatore Kongu Express,,,Coimbatore North,11.12.2018
+288,stoppage,22615,Tirupati-Coimbatore Express,,,Coimbatore North,11.12.2018
+287,stoppage,12269/12270,Hazarat Nizamuddin-Chennai Duronto Express,,,Gwalior,25-12-2018
+287,stoppage,12649/12650,Yesvantpur-Nizamuddin Karnatak Sampark Kranti Express,,,Gwalior,25-12-2018
+282,extension,12805,VSKP-SC Exp,,Lingampalli,,14.12.2018
+282,extension,12806,SC-VSKP Exp,,Lingampalli,,14.12.2018
+285,extension,12375,CHENNAI-ASANSOL EXPRESS,,JASIDIH,,21.12.2018
+285,extension,12376,ASANSOL-CHENNAI EXPRESS,,JASIDIH,,21.12.2018

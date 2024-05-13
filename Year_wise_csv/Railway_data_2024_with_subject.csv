@@ -1,0 +1,338 @@
+CC No.,Type,Train number,Train name,Start Station name,End Station name,Stoppage Station name,Date of Issue
+160,introduction,47253,GHATKESAR- LINGAMPALLI,GHATKESAR,LINGAMPALLI,,01.03.2024
+160,introduction,47254,LINGAMPALLI- GHATKESAR,LINGAMPALLI,GHATKESAR,,01.03.2024
+208,introduction,None,KHANDWA- SANAWAD MEMU SPECIAL,KHANDWA,SANAWAD,,08.03.2024
+208,introduction,None,SANAWAD- KHANDWA MEMU SPECIAL,SANAWAD,KHANDWA,,08.03.2024
+24,stoppage,19217/18,Bandra (T)-Veraval Saurashtra Janta Express,,,Navagadh,12.01.2024
+106,stoppage,15557/ 15558,Darbhanga-Anand Vihar (T) Amrit Bharat Express,,,Harinagar,16.02.2024
+106,stoppage,15557/ 15558,Darbhanga-Anand Vihar (T) Amrit Bharat Express,,,Sikta,16.02.2024
+22,extension,12582,NEW DELHI-BALLIA EXPRESS,,BALLIA,,12.01.2024
+22,extension,12581,BANARAS-NEW DELHI EXPRESS,,BALLIA,,12.01.2024
+233,extension,06009,METTUPALAYAM- COIMBATORE- PODANUR MEMU,,PODANUR,,15.03.2024
+233,extension,06812,PODANUR-COIMBATORE- METTUPALAYAM MEMU,,METTUPALAYAM,,15.03.2024
+233,extension,06815,PODANUR-COIMBATORE- METTUPALAYAM MEMU,,METTUPALAYAM,,15.03.2024
+233,extension,06816,PODANUR-COIMBATORE- METTUPALAYAM MEMU,,METTUPALAYAM,,15.03.2024
+233,extension,06822,METTUPALAYAM- COIMBATORE- PODANUR MEMU,,PODANUR,,15.03.2024
+233,extension,06823,PODANUR-COIMBATORE- METTUPALAYAM MEMU,,METTUPALAYAM,,15.03.2024
+147,stoppage,20957/58,Indore-New Delhi Express,,,Khachrod,01.03.2024
+147,stoppage,12925/26,Mumbai Central-Amritsar Paschim Express,,,Khachrod,01.03.2024
+147,stoppage,19711/12,Jaipur-Bhopal Express,,,Tarana Road,01.03.2024
+240,introduction,18629,RANCHI-GORAKHPUR EXPRESS,RANCHI,GORAKHPUR,,15.03.2024
+240,introduction,18630,GORAKHPUR- RANCHI EXPRESS,GORAKHPUR,RANCHI,,15.03.2024
+130,stoppage,22911/22912,Indore-Howrah Shipra Express,,,Dabhaura,23.02.2024
+91,introduction,75706,SILIGURI- RADHIKAPUR DEMU,SILIGURI,RADHIKAPUR,,16.02.2024
+91,introduction,75705,RADHIKAPUR- SILIGURI DEMU,RADHIKAPUR,SILIGURI,,16.02.2024
+90,introduction,04489,ROHTAK- HANSI PASSENGER,ROHTAK,HANSI,,14.02.2024
+90,introduction,04490,HANSI- ROHTAK PASSENGER,HANSI,ROHTAK,,14.02.2024
+90,introduction,04487,ROHTAK- HANSI PASSENGER,ROHTAK,HANSI,,14.02.2024
+90,introduction,04488,HANSI- ROHTAK PASSENGER,HANSI,ROHTAK,,14.02.2024
+96,stoppage,01437/01438,Solapur-Tirupati Special,,,Kamalapur,16.02.2024
+5,stoppage,03293/03294,Patna-Pt. Deen Dayal Upadhyaya MEMU,,,Pali Halt,02.01.2024
+5,stoppage,03375/03376,Buxar-Patna MEMU,,,Pali Halt,02.01.2024
+88,stoppage,16583/16584,Yesvantpur-Latur Express,,,Kamalnagar,14.02.2024
+238,stoppage,13201/13202,Patna-Lokmanya Tilak (T) Express,,,Raghunathpur,15.03.2024
+238,stoppage,19313/19314,Indore-Patna Express,,,Buxar,15.03.2024
+238,stoppage,12333/12334,Howrah-Prayagraj Rambag Vibhuti Express,,,Chausa,15.03.2024
+238,stoppage,14223/14224,Rajgir-Varanasi Budhpurnima Express,,,Karamnasa,15.03.2024
+200,stoppage,12149 /12150,Danapur-Pune Express,,,Khirkiya,09.03.2024
+200,stoppage,17020,Hyderabad-Ajmer Express,,,Khirkiya,09.03.2024
+200,stoppage,19483/19484,Ahmedabad-Barauni Express,,,Khirkiya,09.03.2024
+198,stoppage,14319/14320,Indore-Bareilly Express,,,Babrala,09.03.2024
+198,stoppage,18237/18238,Korba-Bilaspur Amritsar Chattisgarh Express,,,Dhaura,09.03.2024
+198,stoppage,11123/11124,Gwalior-Barauni Express,,,Ekma,09.03.2024
+198,stoppage,19609,Udaipur-Yog Nagari Rishikesh Express,,,Kandhla,09.03.2024
+198,stoppage,01622,Saharanpur-Delhi Special,,,Sona Arjunpur,09.03.2024
+198,stoppage,14305/14306,Delhi-Haridwar Express,,,Sona Arjunpur,09.03.2024
+198,stoppage,14545/14546,Delhi-Saharanpur Express,,,Sona Arjunpur,09.03.2024
+101,stoppage,12807/12808,Vishakapatnam - H. Nizamuddin Express,,,Morena,16.02.2024
+118,stoppage,16217/16218,Mysuru-Sainagar Shirdi Express,,,Almatti,20.02.2024
+118,stoppage,16587/16588,Yesvantpur-Bikaner Express,,,Almatti,20.02.2024
+118,stoppage,11139/11140,Mumbai CSMT-Hosapete Express,,,Almatti,20.02.2024
+241,extension,13413,MALDA TOWN- BATHINDA FARAKKA EXPRESS,,BALURGHAT,,15.03.2024
+241,extension,13483,MALDA TOWN- BATHINDA FARAKKA EXPRESS,,BALURGHAT,,15.03.2024
+241,extension,13414,BATHINDA- MALDA TOWN FARAKKA EXPRESS,,BALURGHAT,,15.03.2024
+241,extension,13484,BATHINDA- MALDA TOWN- BALURGHAT FARAKKA EXPRESS,,BALURGHAT,,15.03.2024
+26,stoppage,20977/78,Ajmer-Delhi Cantt. Vande Bharat Express,,,Gandhinagar Jaipur,12.01.2024
+102,stoppage,13242,Rajendra Nagar-Banka Express,,,Abhaipur,16.02.2024
+188,introduction,20663,MYSURU - MGR CHENNAI CENTRAL VANDE BHARAT EXPRESS,MYSURU,MGR CHENNAI CENTRAL,,15.03.2024
+188,introduction,20664,MGR CHENNAI CENTRAL - MYSURU VANDE BHARAT EXPRESS,MGR CHENNAI CENTRAL,MYSURU,,15.03.2024
+176,stoppage,16847/16848,Mayiladuturai-Sengottai Express,,,Vadamadura,07.03.2024
+176,stoppage,16867/16868,Villupuram-Dindigul Express,,,Vadamadura,07.03.2024
+152,stoppage,02569/02570,Darbhanga-New Delhi Special,,,Deoria Sadar,29.02.2024
+152,stoppage,02563/02564,Barauni-New Delhi Special,,,Deoria Sadar,29.02.2024
+152,stoppage,12203/12204,Saharsa-Amritsar Garibrath Express,,,Deoria Sadar,29.02.2024
+99,stoppage,20813/20814,Puri-Jodhpur Express,,,Shamgarh,16.02.2024
+99,stoppage,20843/20844,Bilaspur-Bhagat Ki Kothi Express,,,Suwasra,16.02.2024
+207,stoppage,12871/12872,Howrah-Titlagarh Ispat Express,,,Sonua,11.03.2024
+207,stoppage,22861/22862,Howrah-Kantabanji Ispat Express,,,Sonua,11.03.2024
+207,stoppage,13287/13288,Durg-Ara South Bihar Express,,,Sonua,11.03.2024
+52,introduction,None,DEOGHAR-HANSDIHA-GODDA DEMU SPECIAL,DEOGHAR,GODDA,,25.01.2024
+52,introduction,None,GODDA-HANSDIHA-DEOGHAR DEMU SPECIAL,GODDA,DEOGHAR,,25.01.2024
+219,stoppage,18639/18640,Ara-Ranchi Express,,,Piro,15.03.2024
+153,stoppage,11464/63,Jabalpur-Veraval Somnath Express,,,Bankhedi,01.03.2024
+220,stoppage,18029/30,Lokmanya Tilak Terminal (T)-Shalimar Express,,,Chandur,15.03.2024
+224,extension,01893,Gwalior-Sumaoli MEMU Special,,Jora Alapur,,15.03.2024
+224,extension,01894,Gwalior-Sumaoli MEMU Special,,Jora Alapur,,15.03.2024
+224,extension,01895,Gwalior-Sumaoli MEMU Special,,Jora Alapur,,15.03.2024
+224,extension,01896,Gwalior-Sumaoli MEMU Special,,Jora Alapur,,15.03.2024
+224,extension,01897,Gwalior-Sumaoli MEMU Special,,Jora Alapur,,15.03.2024
+224,extension,01898,Gwalior-Sumaoli MEMU Special,,Jora Alapur,,15.03.2024
+193,introduction,22231,KALABURAGI - SMV BENGALURU VANDE BHARAT EXPRESS,KALABURAGI,SMV BENGALURU,,11.03.2024
+193,introduction,22232,SMV BENGALURU KALABURAGI VANDE BHARAT EXPRESS,SMV BENGALURU,KALABURAGI,,11.03.2024
+212,stoppage,09368,Khambat-Anand MEMU,,,Yawarpura,13.03.2024
+212,stoppage,09374,Khambat-Anand MEMU,,,Yawarpura,13.03.2024
+169,stoppage,18117/18118,Rourkela-Gunupur Rajyarani Express,,,Garpos,06.03.2024
+169,stoppage,12871/12872,Howrah-Titlagarh Express,,,Garpos,06.03.2024
+169,stoppage,13351/13352,Dhanbad-Alappuzha Express,,,Bamra,06.03.2024
+169,stoppage,18029/18030,Lokmanya Tilak (T)-Shalimar Express,,,Bamra,06.03.2024
+169,stoppage,12871/12872,Howrah-Titlagarh Express,,,Bamra,06.03.2024
+169,stoppage,18309/18310,Sambalpur-Jammu Tawi Express,,,Bamra,06.03.2024
+169,stoppage,18189/18190,Tatanagar-Ernakulam Express,,,Bamra,06.03.2024
+142,stoppage,15527/15528,Jaynagar-Patna Kamla Ganga Express,,,Garhara,27.02.2024
+6,stoppage,15231/15232,Barauni-Gondia Express,,,Dalsingh Sarai,02.01.2024
+6,stoppage,15279/15280,Saharsa-Anand Vihar (T) Poorabia Express,,,Mohiuddin Nagar,02.01.2024
+192,introduction,22547,LUCKNOW JN - DEHRADUN VANDE BHARAT EXPRESS,LUCKNOW JN,DEHRADUN,,09.03.2024
+192,introduction,22548,DEHRADUN - LUCKNOW JN VANDE BHARAT EXPRESS,DEHRADUN,LUCKNOW JN,,09.03.2024
+190,introduction,22233,NEW JALPAIGURI PATNA VANDE BHARAT EXPRESS,NEW JALPAIGURI,PATNA,,09.03.2024
+190,introduction,22234,PATNA - NEW JALPAIGURI VANDE BHARAT EXPRESS,PATNA,NEW JALPAIGURI,,09.03.2024
+172,stoppage,16348,Mangaluru Central-Thiruvananthapuram Central Express,,,Varkala Shivagiri,06.03.2024
+172,stoppage,16101/16102,Chennai Egmore-Kollam Express,,,Tenmalai,06.03.2024
+172,stoppage,20923/20924,Tirunelveli-Gandhidham Humsafar Express,,,Alappuzha,06.03.2024
+183,stoppage,14321/22,Bareilly-Bhuj Express,,,Bhabhar,12.03.2024
+25,stoppage,15613/15614,Guwahati-Murkongselek Lachit Express,,,Balipara,12.01.2024
+195,introduction,22470,HAZRAT NIZAMUDDIN KHAJURAHO VANDE BHARAT EXPRESS,HAZRAT NIZAMUDDIN,KHAJURAHO,,09.03.2024
+195,introduction,22469,KHAJURAHO - HAZRAT NIZAMUDDIN VANDE BHARAT EXPRESS,KHAJURAHO,HAZRAT NIZAMUDDIN,,09.03.2024
+51,introduction,None,RAXAUL-NARKATIAGANJ MEMU PASSENGER SPECIAL,RAXAUL,NARKATIAGANJ,,25.01.2024
+51,introduction,14617,PURNEA COURT-BANMANKHI-AMRITSAR EXPRESS,PURNEA COURT,AMRITSAR,,25.01.2024
+51,introduction,14618,PURNEA COURT-BANMANKHI-AMRITSAR EXPRESS,PURNEA COURT,BANMANKHI,,25.01.2024
+157,stoppage,12941/12942,Bhavnagar-Asansol Express,,,Shri Mahaveerji,01.03.2024
+2,stoppage,22511/12,Lokmanya Tilak (T) - Kamakhya Karmabhoomi Express,,,Kharsia,02.01.2024
+50,introduction,None,SAHARSA-SUPAUL SPECIAL,SAHARSA,SUPAUL,,25.01.2024
+50,introduction,None,SUPAUL-SAHARSA SPECIAL,SUPAUL,SAHARSA,,25.01.2024
+27,stoppage,13257/13258,Danapur-Anand Vihar (T) Express,,,Amethi,15.01.2024
+27,stoppage,13257/13258,Danapur-Anand Vihar (T) Express,,,Gauriganj,15.01.2024
+27,stoppage,19669/19670,Udaipur-Patliputra Express,,,Nihalgarh,15.01.2024
+27,stoppage,19313/19314,Indore-Patna Express,,,Nihalgarh,15.01.2024
+205,extension,05838,KOTA- AKLERA SPECIAL,,AKLERA,,11.03.2024
+205,extension,05837,JUNAKHERA- KOTA SPECIAL,,AKLERA,,11.03.2024
+205,extension,05840,KOTA- AKLERA SPECIAL,,AKLERA,,11.03.2024
+205,extension,05839,JHALAWAR CITY -KOTA SPECIAL,,AKLERA,,11.03.2024
+226,stoppage,11753/11754,NSCB Itwari-Rewa Express,,,Tumsar Road,15.03.2024
+237,stoppage,18615/18616,Howrah-Hatia Kriya Yoga Express,,,Tiraldih,15.03.2024
+21,stoppage,15053/15054,Chhapra-Lucknow Express,,,Karimuddinpur,12.01.2024
+21,stoppage,15231/15232,Barauni-Gondia Express,,,Yusufpur,12.01.2024
+123,stoppage,13239/13240,Patna-Kota Express,,,Rura,22.02.2024
+31,stoppage,13349/13350,Singrauli-Patna Express,,,Wyndhamganj,15.01.2024
+143,extension,15028,GORAKHPUR-HATIA- SAMBALPUR EXPRESS,,SAMBALPUR,,27.02.2024
+143,extension,15027,SAMBALPUR-HATIA- GORAKHPUR EXPRESS,,SAMBALPUR,,27.02.2024
+225,stoppage,22877/22878,Howrah-Ernakulam Antyodaya Express,,,Aluva,15.03.2024
+215,stoppage,14887/14888,Barmer-Rishikesh Express,,,Arjansar,14.03.2024
+215,stoppage,14721/14722,Jodhpur-Bathinda Express,,,Arjansar,14.03.2024
+215,stoppage,12403/12404,Prayagraj-Bikaner Express,,,Sudsar,14.03.2024
+215,stoppage,20403/20404,Prayagraj-Bikaner Express,,,Sudsar,14.03.2024
+28,introduction,None,GOMTINAGAR-GODDA EXPRESS,GOMTINAGAR,GODDA,,15.01.2024
+28,introduction,None,GODDA-GOMTINAGAR EXPRESS,GODDA,GOMTINAGAR,,15.01.2024
+185,stoppage,16366,Nagercoil-Kottayam Express,,,Kappil,09.03.2024
+185,stoppage,16127,Chennai Egmore-Guruvayur Express,,,Kadakavur,09.03.2024
+185,stoppage,16366,Nagercoil-Kottayam Express,,,Iravipuram,09.03.2024
+185,stoppage,16729/30,Madurai-Punalur Express,,,Iravipuram,09.03.2024
+185,stoppage,16366,Nagercoil-Kottayam Express,,,Perinad,09.03.2024
+114,introduction,None,04640 BARAMULLA- SANGALDAN MEMU,BARAMULLA,SANGALDAN,,19.02.2024
+114,introduction,None,04639 SANGALDAN- BARAMULLA MEMU,SANGALDAN,BARAMULLA,,19.02.2024
+114,introduction,None,04668 BARAMULLA- SANGALDAN DMU,BARAMULLA,SANGALDAN,,19.02.2024
+114,introduction,None,04667 SANGALDAN- BARAMULLA DMU,SANGALDAN,BARAMULLA,,19.02.2024
+161,stoppage,12071/72,Mumbai CSMT-Jalna Jan Shatabdi Express,,,Hingoli,04.03.2024
+150,introduction,None,TANAKPUR- DEHRADUN EXPRESS,TANAKPUR,DEHRADUN,,01.03.2024
+150,introduction,None,DEHRADUN- TANAKPUR EXPRESS,DEHRADUN,TANAKPUR,,01.03.2024
+166,introduction,14009,BAPUDHAM MOTIHARI-ANAND VIHAR EXPRESS,BAPUDHAM MOTIHARI,ANAND VIHAR,,04.03.2024
+166,introduction,14010,ANAND VIHAR-BAPUDHAM MOTIHARI EXPRESS,ANAND VIHAR,BAPUDHAM MOTIHARI,,04.03.2024
+166,introduction,15621,KAMAKHYA-ANAND VIHAR EXPRESS,KAMAKHYA,ANAND VIHAR,,04.03.2024
+151,stoppage,11903/04,Virangana Lakshmibai Jhansi-Etawah Express,,,Sonagir,29.02.2024
+189,introduction,22345,PATNA GOMTINAGAR VANDE BHARAT EXPRESS,PATNA,GOMTINAGAR,,15.03.2024
+189,introduction,22346,GOMTINAGAR - PATNA VANDE BHARAT EXPRESS,GOMTINAGAR,PATNA,,15.03.2024
+93,stoppage,22157/58,Chhatrapati Shivaji Maharaj (T)-Chennai Egmore Express,,,Shahabad,16.02.2024
+128,stoppage,12239/12240,Mumbai Central-Hisar Duronto Express,,,Kota,23.02.2024
+109,stoppage,13021/13022,Howrah-Raxaul Mithila Express,,,Pipra,16.02.2024
+109,stoppage,12557/12558,Muzaffarpur-Anand Vihar (T) Sapt Kranti Express,,,Pipra,16.02.2024
+109,stoppage,19037/19038,Bandra (T)-Barauni Avadh Express,,,Pipra,16.02.2024
+109,stoppage,15653/15654,Guwahati-Jammu Tawi Amarnath Express,,,Mehsi,16.02.2024
+109,stoppage,15001/15002,Muzaffarpur-Dehradun Rapti Ganga Express,,,Mehsi,16.02.2024
+109,stoppage,15051/15052,Gorakhpur-Kolkata Express,,,Mehsi,16.02.2024
+109,stoppage,14015/14016,Anand Vihar (T)-Raxaul Sadbhawna Express,,,Mehsi,16.02.2024
+109,stoppage,15267/15268,Lokmanya Tilak(T)-Raxaul Antyodaya Express,,,Mehsi,16.02.2024
+165,introduction,22165/66,BHOPAL-SINGRAULI EXPRESS,BHOPAL,SINGRAULI,,04.03.2024
+165,introduction,22167/68,SINGRAULI-H. NIZAMUDDIN EXPRESS,SINGRAULI,H. NIZAMUDDIN,,04.03.2024
+186,introduction,22962,AHMEDABAD - MUMBAI CENTRAL VANDE BHARAT EXPRESS,AHMEDABAD,MMCT,,15.03.2024
+186,introduction,22961,MUMBAI CENTRAL AHMEDABAD VANDE BHARAT EXPRESS,MMCT,AHMEDABAD,,15.03.2024
+164,stoppage,22113/22114,Lokmanya Tilak (T)- Kochuveli Express,,,Kundapura,02.03.2024
+20,stoppage,15707/15708,Express,,,Ekma,12.01.2024
+20,stoppage,13019/13020,Express,,,Kopa Samhota,12.01.2024
+184,stoppage,01487/88,Pune-Harangul Special,,,Parewadi,09.03.2024
+184,stoppage,01423/24,Pune-Miraj Special,,,Kirloskarvadi,09.03.2024
+180,stoppage,20415/20416,Varanasi-Indore Kashi Mahakal Express,,,Orai, 
+180,stoppage,11123/11124,Gwalior-Barauni Express,,,Moth, 
+180,stoppage,11123/11124,Gwalior-Barauni Express,,,Ait, 
+180,stoppage,14113/14114,Subedarganj-Dehradun Express,,,Dibai, 
+180,stoppage,18181/18182,Tatanagar-Thawe Express,,,Daudpur, 
+180,stoppage,04429,Delhi-Saharanpur Special,,,Sona Arjunpur, 
+180,stoppage,01622,Saharanpur-Delhi Special,,,Khandrawali, 
+217,stoppage,16101/16102,Chennai Egmore-Kollam Express,,,Ulundurpet,14.03.2024
+217,stoppage,20605/20606,Chennai Egmore-Tiruchendur Express,,,Kuttalam,14.03.2024
+216,stoppage,17317/18,Dadar-Hubli Express,,,Kirloskarvadi,14.03.2024
+204,stoppage,22987/88,Ajmer-Agra Fort Express,,,Kishangarh,09.03.2024
+204,stoppage,82653/54,Yesvantpur-Jaipur Express,,,Kishangarh,09.03.2024
+201,stoppage,03379/80,Barauni-Patna MEMU Special,,,Fateha,09.03.2024
+201,stoppage,03296,Patna-Barauni MEMU Special,,,Fateha,09.03.2024
+201,stoppage,19601/02,New Jalpaiguri-Udaipur Express,,,Salauna,09.03.2024
+154,extension,16589,BENGALURU- SANGLI RANI CHENNAMMA EXPRESS,,SANGLI,,01.03.2024
+154,extension,16590,MIRAJ- BENGALURU RANI CHENNAMMA EXPRESS,,SANGLI,,01.03.2024
+154,extension,11411,PARLI VAJINATH- SANGLI DEMU,,SANGLI,,01.03.2024
+154,extension,11412,MIRAJ- PARLI VAJINATH DEMU,,SANGLI,,01.03.2024
+129,stoppage,20415/20416,Varanasi-Indore Kashi Mahakal Express,,,Fatehpur,23.02.2024
+89,stoppage,11705/11706,Jabalpur Rewa Express,,,Ghunwara,14.02.2024
+213,stoppage,12979/80,Bandra (T)-Jaipur Express,,,Navsari,13.03.2024
+232,stoppage,15666/15665,Mariani-Guwahati BG Express,,,Bokajan,15.03.2024
+232,stoppage,13173/13174,Sealdah-Agartala Kanchanjungha Express,,,Bihara,15.03.2024
+232,stoppage,12883/12884,Santragachi-Purulia Rupshi Bangla Express,,,Chhatna,15.03.2024
+232,stoppage,12885/12886,Shalimar-Bhojudih Aranyak Express,,,Chhatna,15.03.2024
+232,stoppage,13153/13154,Sealdah-Malda Town Gour Express,,,Nalhati,15.03.2024
+232,stoppage,12345/12346,Howrah-Guwahati Saraighat Express,,,Sainthia,15.03.2024
+232,stoppage,08641/08642,Adra-Barkakana MEMU,,,Begunkodar,15.03.2024
+232,stoppage,18182/18181,Thawe-Tatanagar Express,,,Barabhum,15.03.2024
+232,stoppage,22891/22892,Howrah-Ranchi Intercity SF Express,,,Garh Jaipur,15.03.2024
+232,stoppage,13319/13320,Dumka-Ranchi Express,,,Jhalida,15.03.2024
+232,stoppage,13403/13404,Ranchi-Bhagalpur Vanachal Express,,,Jhalida,15.03.2024
+232,stoppage,18623/18624,Hatia-Islampur Express,,,Jhalida,15.03.2024
+232,stoppage,18623/18624,Hatia-Islampur Express,,,Kotshila,15.03.2024
+232,stoppage,18625/18626,Purnea Court-Hatia Express,,,Kotshila,15.03.2024
+232,stoppage,18623/18624,Hatia-Islampur Express,,,Pundag,15.03.2024
+232,stoppage,18625/18626,Purnea Court-Hatia Express,,,Pundag,15.03.2024
+232,stoppage,15027/15028,Sambalpur-Gorakhpur Maurya Express,,,Namkom,15.03.2024
+232,stoppage,18309/18310,Sambalpur-Jammu Tawi Express,,,Namkom,15.03.2024
+232,stoppage,18615/18616,Howrah-Hatia Kriya Yoga Express,,,Namkom,15.03.2024
+232,stoppage,18625/18626,Hatia-Purnea Court SF Express,,,Namkom,15.03.2024
+232,stoppage,18623/18624,Hatia-Islampur Express,,,Silli,15.03.2024
+232,stoppage,15027/15028,Sambalpur-Gorakhpur Maurya Express,,,Tatisilwai,15.03.2024
+232,stoppage,18309/18310,Sambalpur-Jammu Tawi Express,,,Tatisilwai,15.03.2024
+232,stoppage,18615/18616,Howrah-Hatia Kriya Yoga Express,,,Tatisilwai,15.03.2024
+232,stoppage,18625/18626,Hatia-Purnea Court Express,,,Tatisilwai,15.03.2024
+182,stoppage,12719/12720,Jaipur - Hyderabad Express,,,Burhanpur,12.03.2024
+7,stoppage,14813/14,Jodhpur-Bhopal Express,,,Sureli,02.01.2024
+168,introduction,None,PARADEEP- KENDUJHARGARH MEMU,PARADEEP,KENDUJHARGARH,,04.03.2024
+168,introduction,None,KENDUJHARGARH- PARADEEP MEMU,KENDUJHARGARH,PARADEEP,,04.03.2024
+179,stoppage,19323/24,Dr. Ambedkar Nagar-Bhopal Express,,,Sehore,07.03.2024
+174,extension,16231,MAYILAD UTURAI- MYSURU EXPRESS,,CUDDALORE PORT,,07.03.2024
+174,extension,16232,MYSURU- CUDDALORE PORT EXPRESS,,CUDDALORE PORT,,07.03.2024
+174,extension,16233,MAYILADUTURAI-TIRUCHCHIRAPPALLI EXPRESS,,None,,07.03.2024
+174,extension,16234,MAYILADUTURAI-TIRUCHCHIRAPPALLI EXPRESS,,None,,07.03.2024
+92,stoppage,22665/22666,KSR Bengaluru-Coimbatore Uday Express,,,Tirupattur,16.02.2024
+223,stoppage,12423/12424,Dibrugarh-New Delhi Rajdhani Express,,,Rangiya,15.03.2024
+162,stoppage,12467/12468,JAISALMER-JAIPUR LEELAN EXPRESS,,,NAWA CITY,06.03.2024
+170,stoppage,12215,Delhi Sarai Rohilla-Bandra (T) Garib Rath Express,,,Nadiad,07.03.2024
+170,stoppage,09274,Ahmedabad-Anand MEMU,,,Nadiad,07.03.2024
+218,extension,09605,AJMER- JAIPUR DEMU,,GANGAPUR CITY,,15.03.2024
+218,extension,09606,JAIPUR- AJMER DEMU,,GANGAPUR CITY,,15.03.2024
+175,stoppage,11201/11202,Shahdol-Nagpur Express,,,Birsinghpur Pali,07.03.2024
+203,stoppage,18613/14,Ranchi-Chopan Express,,,Meralgram,09.03.2024
+97,stoppage,16343/16344,Thiruvananthapuram Central-Madurai Amritha Express,,,Kazhakuttam,16.02.2024
+97,stoppage,16348,Mangaluru Central-Thiruvananthapuram Central Express,,,Paravur,16.02.2024
+95,stoppage,12119/20,Amravati-Ajni Express,,,Tuljapur,16.02.2024
+95,stoppage,12159/60,Amravati-Jabalpur Express,,,Chandur,16.02.2024
+107,stoppage,13149/13150,Sealdah-Alipur Duar Kanchankanya Express,,,Madarihat,16.02.2024
+107,stoppage,15483/15484,Alipur Duar-Old Delhi Sikkim Mahananda Express,,,Nagrakata,16.02.2024
+107,stoppage,15467/15468,Siliguri-Bamanhat Express,,,Nagrakata,16.02.2024
+196,extension,22925,AHMEDABAD -OKHA VANDE BHARAT EXPRESS,,OKHA,,09.03.2024
+196,extension,22926,JAMNAGAR -AHMEDABAD VANDE BHARAT EXPRESS,,OKHA,,09.03.2024
+177,stoppage,20895/20896,Rameswaram-Bhubaneswar Express,,,Rajamundry,07.03.2024
+177,stoppage,12867/12868,Howrah-Puducherry Express,,,Rajamundry,07.03.2024
+177,stoppage,16591/16592,Hubballi-Mysuru Hampi Express,,,Anantapur,07.03.2024
+177,stoppage,17645/17646,Secunderabad-Repalle Express,,,Siripuram,07.03.2024
+177,stoppage,17035/17036,Kazipet-Balharshah Express,,,Raghavapuram,07.03.2024
+177,stoppage,17035/17036,Kazipet-Balharshah Express,,,Mandamari,07.03.2024
+177,stoppage,22151/22152,Pune-Kazipet Express,,,Mancheral,07.03.2024
+177,stoppage,11409/11410,Daund-Nizamabad Express,,,Navipet,07.03.2024
+177,stoppage,17405/17406,Tirupati-Adilabad Krishna Express,,,Medchal,07.03.2024
+177,stoppage,17033/17034,Bhadrachalam Road-Balharshah Singareni Memu Express,,,Bethampudi,07.03.2024
+177,stoppage,12787/12788,Narasapur-Nagarsol Express,,,Mahbubabad,07.03.2024
+177,stoppage,20701/20702,Secunderabad-Tirupati Vande Bharat Express,,,Miryalaguda,07.03.2024
+177,stoppage,17659/17660,Secunderabad-Bhadrachalam Road Kakatiya Express,,,Tadakalpudi,07.03.2024
+177,stoppage,17646,Repalle-Secunderabad Express,,,Ramannapet,07.03.2024
+177,stoppage,17253,Guntur-Secunderabad Express,,,Umdanagar,07.03.2024
+177,stoppage,17035,Kazipet-Balharshah Express,,,Rechni Road,07.03.2024
+177,stoppage,12763,Tirupati-Secunderabad Padmavathi Express,,,Nekonda,07.03.2024
+177,stoppage,17660,Bhadrachalam Road-Secunderabad Kakatiya Express,,,Bethampudi,07.03.2024
+149,stoppage,19411/19412,Sabarmati - Daulatpur Chowk Express,,,Sojat Road,01.03.2024
+149,stoppage,20491/20492,Jaisalmer - Sabarmati Express,,,Tivari,01.03.2024
+149,stoppage,14087/14088,Delhi - Jaisalmer Runicha Express,,,Osiyan,01.03.2024
+149,stoppage,22481/22482,Jodhpur-Delhi Express,,,Pipar Road,01.03.2024
+122,stoppage,20409/20410,Delhi Cantt-Bathinda Express,,,Bahadurgarh,22.02.2024
+11,stoppage,13347/48,Barkakana-Patna Palamu Express,,,Mccluskieganj,05.01.2024
+11,stoppage,18623/24,Hatia-Islampur Express,,,Namkom,05.01.2024
+11,stoppage,18623/24,Hatia-Islampur Express,,,Tatisilwai,05.01.2024
+234,stoppage,15079/15080,Patliputra-Gorakhpur Express,,,Sidhwalia,15.03.2024
+221,stoppage,14807/14808,Jodhpur-Dadar Express,,,Modran, 
+221,stoppage,14807/14808,Jodhpur-Dadar Express,,,Mokalsar, 
+30,introduction,51119,WARDHA-KALAMB PASSENGER,WARDHA,KALAMB,,15.01.2024
+30,introduction,51120,KALAMB-WARDHA PASSENGER,KALAMB,WARDHA,,15.01.2024
+9,extension,18423,BHUBANESWA R-DASAPALLA EXPRESS,,DASAPALLA,,04.01.2024
+9,extension,18424,DASAPALLA BHUBANESW AR EXPRESS,,DASAPALLA,,04.01.2024
+9,extension,08429,BHUBANESWAR -DASAPALLA SPECIAL,,DASAPALLA,,04.01.2024
+9,extension,08430,NUAGAON ROAD BHUBANESW AR SPECIAL,,DASAPALLA,,04.01.2024
+9,extension,08423,PURI -DASAPALLA SPECIAL,,DASAPALLA,,04.01.2024
+9,extension,08424,DASAPALLA- PURI SPECIAL,,DASAPALLA,,04.01.2024
+9,extension,08555,BHADRAK - DASAPALLA MEMU SPECIAL,,DASAPALLA,,04.01.2024
+9,extension,08556,DASAPALLA - BHADRAK MEMU SPECIAL,,DASAPALLA,,04.01.2024
+156,stoppage,12789/12790,Kacheguda-Mangaluru Central Express,,,Nileshwar,01.03.2024
+178,stoppage,18029/18030,Lokmanya Tilak (T) - Shalimar Express,,,Galudih,07.03.2024
+12,stoppage,13433/13434,SMVT Bengaluru-Malda Town Amrit Bharat Express,,,Pakur,06.01.2024
+235,stoppage,13005/13006,Howrah-Amritsar Express,,,Sirhind,15.03.2024
+214,stoppage,22615/22616,Tirupati-Coimbatore Express,,,Samalpatti,13.03.2024
+23,introduction,99837/38,99838 SHIVAJINAGAR-LONAVLA EMU,SHIVAJINAGAR,LONAVLA,,12.01.2024
+23,introduction,99837/38,99837 LONAVLA-SHIVAJINAGAR EMU,LONAVLA,SHIVAJINAGAR,,12.01.2024
+199,stoppage,22455/56,Sainagar-Shirdi Kalka Express,,,Khandwa,09.03.2024
+227,extension,17652,CHENGALPATTU- PUDUCHERRY EXPRESS,,PUDUCHERRY,,15.03.2024
+227,extension,17651,PUDUCHERRY- CHENGALPATTU- KACHEGUDA EXPRESS,,KACHEGUDA,,15.03.2024
+227,extension,17644,KAKINADA PORT- CHENGALPATTU- PUDUCHERRY CIRCAR EXPRESS,,PUDUCHERRY,,15.03.2024
+227,extension,17643,PUDUCHERRY- CHENGALPATTU KAKINADAPORT CIRCAR EXPRESS,,KAKINADAPORT,,15.03.2024
+159,stoppage,15089/15090,Godda-Gomtinagar Express,,,Poreyahat,01.03.2024
+146,stoppage,11411/12,Parli Vajinath-Miraj DEMU,,,Murud,01.03.2024
+146,stoppage,01413/14,Nizamabad-Pandharpur Special,,,Murud,01.03.2024
+209,stoppage,20959/20960,Valsad-Vadnagar Express,,,Bilimora,13.03.2024
+239,introduction,None,ANAND VIHAR (T)- RADHIKAPUR EXPRESS,ANAND VIHAR (T),RADHIKAPUR,,15.03.2024
+239,introduction,None,RADHIKAPUR - ANAND VIHAR (T) EXPRESS,RADHIKAPUR,ANAND VIHAR (T),,15.03.2024
+236,stoppage,12403/12404,Prayagraj-Bikaner Express,,,Govindgarh,15.03.2024
+236,stoppage,20403/20404,Prayagraj-Bikaner Express,,,Govindgarh,15.03.2024
+242,stoppage,13235/36,Sahibganj-Danapur Express,,,Karauta,15.03.2024
+242,stoppage,13227/28,Saharsa-Rajendra Nagar Express,,,Khusropur,15.03.2024
+242,stoppage,12369/70,Howrah-Dehradun Kumbh Express,,,Bakhtiyarpur,15.03.2024
+171,stoppage,12791/12792,Secunderabad-Danapur Express,,,Jamikunta,06.03.2024
+230,stoppage,18625/18626,Purnea Court-Hatia Express,,,Athmal Gola,15.03.2024
+230,stoppage,18621/18622,Patna-Hatia Patliputra Express,,,Athmal Gola,15.03.2024
+230,stoppage,13287/13288,Durg-Ara South Bihar Express,,,Athmal Gola,15.03.2024
+230,stoppage,13235/13236,Sahibganj-Danapur Express,,,Athmal Gola,15.03.2024
+163,extension,01862,AIT-KONCH-AIT SHUTTLE,,SARSOKI,,06.03.2024
+163,extension,01864,AIT-KONCH-AIT SHUTTLE,,SARSOKI,,06.03.2024
+163,extension,01866,AIT-KONCH-AIT SHUTTLE,,SARSOKI,,06.03.2024
+163,extension,01868,AIT-KONCH-AIT SHUTTLE,,SARSOKI,,06.03.2024
+197,introduction,16766,TUTICORIN- METTUPALAYAM EXPRESS,TUTICORIN,METTUPALAYAM,,15.03.2024
+197,introduction,16621,RAMESWARAM- MANGALURU EXPRESS,RAMESWARAM,MANGALURU,,15.03.2024
+148,stoppage,14705/14706,Bhiwani - Dahar Ka Balaji Express,,,Bhagega,01.03.2024
+148,stoppage,14705/14706,Bhiwani - Dahar Ka Balaji Express,,,Kachera,01.03.2024
+148,stoppage,14705/14706,Bhiwani - Dahar Ka Balaji Express,,,Jhilo,01.03.2024
+148,stoppage,04705/04706,Sriganganagar-Jaipur Express,,,Palsana,01.03.2024
+148,stoppage,14701/14702,Sriganganagar-Bandra (T) Aravali Express,,,Palsana,01.03.2024
+222,stoppage,20491/20492,Jaisalmer-Sabarmati Express,,,Dhanera,15.03.2024
+222,stoppage,19271/19272,Bhavnagar-Haridwar Express,,,Raniwara,15.03.2024
+202,stoppage,15501/02,Raxaul-Jogbani Express,,,Adapur,09.03.2024
+202,stoppage,15501/02,Raxaul-Jogbani Express,,,Chauradano,09.03.2024
+243,stoppage,14723/24,Prayagraj-Bhiwani Kalindi Express,,,Bindki Road,15.03.2024
+29,extension,01401,AHMEDNAGAR- AMALNER PASSENGER SPECIAL,,AMALNER BHANDYACHE,,15.01.2024
+29,extension,01402,NEW ASHTI- AHMEDNAGAR PASSENGER SPECIAL,,AMALNER BHANDYACHE,,15.01.2024
+194,introduction,20887,RANCHI - VARANASI VANDE BHARAT EXPRESS,RANCHI,VARANASI,,09.03.2024
+194,introduction,20888,VARANASI - RANCHI VANDE BHARAT EXPRESS,VARANASI,RANCHI,,09.03.2024
+158,stoppage,22213/22214,Shalimar-Patna Duronto Express,,,Jasidih,01.03.2024
+191,introduction,20841,PURI VISAKHAPATNAM VANDE BHARAT EXPRESS,PURI,VISAKHAPATNAM,,09.03.2024
+191,introduction,20842,VISAKHAPATNAM - PURI VANDE BHARAT EXPRESS,VISAKHAPATNAM,PURI,,09.03.2024
+187,introduction,20707,SECUNDERABAD - VISAKHAPATNAM VANDE BHARAT EXPRESS,SECUNDERABAD,VISAKHAPATNAM,,15.03.2024
+187,introduction,20708,VISAKHAPATNAM SECUNDERABAD VANDE BHARAT EXPRESS,VISAKHAPATNAM,SECUNDERABAD,,15.03.2024
+173,introduction,None,NEW TRAIN,JHANJHARPUR,VACHASPATI NAGAR,,07.03.2024
