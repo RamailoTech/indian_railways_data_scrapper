@@ -3,7 +3,16 @@ venv/
 input/
 __pycache__
 */__pycache__/
-data
+data/form_data/
+data/parsed_pdfs/
+data/parsed_text/
+data/pdfs/
+data/tests/
 logs/*
 !logs/.gitkeep
 !input/.gitkeep
+!data/form_data/.gitkeep
+!data/parsed_pdfs/.gitkeep
+!data/parsed_text/.gitkeep
+!data/pdfs/.gitkeep
+!data/tests/.gitkeep
