@@ -1,0 +1,49 @@
+CC No.,Type,Train number,Train name,Start Station name,End Station name,Stoppage Station name,Date of Issue
+61,extension,15547,Jaynagar-Lokmanya Tilak (T) Exp.,,RAXAUL,,27.07.2020
+61,extension,15548,Jaynagar-Lokmanya Tilak (T) Exp.,,RAXAUL,,27.07.2020
+55,extension,13015,Howrah-Bhagalpur Kaviguru Express,,JAMALPUR,,21.07.2020
+55,extension,13016,Howrah-Bhagalpur Kaviguru Express,,JAMALPUR,,21.07.2020
+81,extension,12323,Howrah-Barmer Express,,Barmer,,25.08.2020
+81,extension,12324,Barmer-Howrah Express,,Barmer,,25.08.2020
+47,stoppage,None,None,,,None,24.06.2020
+73,introduction,None,SONPUR-VAISHALI DEMU,SONPUR,VAISHALI,,13.08.2020
+73,introduction,None,VAISHALI-SONPUR DEMU,VAISHALI,SONPUR,,13.08.2020
+64,introduction,15905,KANNIYAKUMARI- DIBRUGARH VIVEK EXPRESS,KANNIYAKUMARI,DIBRUGARH,,28.07.2020
+64,introduction,15906,DIBRUGARH - KANNIYAKUMARI VIVEK EXPRESS,DIBRUGARH,KANNIYAKUMARI,,28.07.2020
+64,introduction,20503,DIBRUGARH-NEW DELHI RAJDHANI EXPRESS,DIBRUGARH,NEW DELHI,,28.07.2020
+64,introduction,20504,NEW DELHI - DIBRUGARH RAJDHANI EXPRESS,NEW DELHI,DIBRUGARH,,28.07.2020
+40,stoppage,02425/26,New Delhi- Jammu Tawi AC Spl,,,Pathankot Cantt,29.05.2020
+69,extension,56265,ASK-NTW PASS,,NANJANGUD TOWN,,07.08.2020
+69,extension,56266,NTW-ASK PASS,,NANJANGUD TOWN,,07.08.2020
+69,extension,56264,SBC-NTW PASS,,NANJANGUD TOWN,,07.08.2020
+69,extension,56263,NTW-SBC PASS,,NANJANGUD TOWN,,07.08.2020
+69,extension,56513,KIK-SBC PASSENGER,,KSR BENGALURU,,07.08.2020
+39,introduction,None,KSR BENGALURU-BELAGAVI SPECIAL TRAIN,KSR BENGALURU,BELAGAVI,,20.05.2020
+39,introduction,None,BELAGAVI-KSR BENGALURU SPECIAL TRAIN,BELAGAVI,KSR BENGALURU,,20.05.2020
+39,introduction,None,KSR BENGALURU-MYSURU SPECIAL TRAIN,KSR BENGALURU,MYSURU,,20.05.2020
+39,introduction,None,MYSURU-KSR BENGALURU SPECIAL TRAIN,MYSURU,KSR BENGALURU,,20.05.2020
+56,extension,11061,LOKMANYA TILAK (T)-JAYNAGAR EXPRESS,,JAYNAGAR,,21.07.2020
+56,extension,11062,JAYNAGAR-LOKMANYA TILAK (T) EXPRESS,,JAYNAGAR,,21.07.2020
+72,introduction,None,55503AL,SOU,RGV,,11.08.2020
+72,introduction,None,555031,SOU,RGV,,11.08.2020
+72,introduction,None,555011,SOU,RGV,,11.08.2020
+72,introduction,None,55502L,SOU,RGV,,11.08.2020
+72,introduction,None,55504!,SOU,RGV,,11.08.2020
+78,extension,14605,Haridwar-Jammu Tawi Express,,Yog Nagri Rishikesh,,20.08.2020
+78,extension,19609,Udaipur-Haridwar Express,,Yog Nagri Rishikesh,,20.08.2020
+78,extension,19031,Ahmedabad-Haridwar Haridwar Mail,,Yog Nagri Rishikesh,,20.08.2020
+78,extension,18477,Puri-Haridwar Utkal Express,,Yog Nagri Rishikesh,,20.08.2020
+78,extension,14229,Prayagraj Sangam-Haridwar Express,,Yog Nagri Rishikesh,,20.08.2020
+78,extension,15943,Silchar-Dibrugarh Barak-Brahmaputra Express,,New Tinsukia,,20.08.2020
+78,extension,75713,Siliguri-New Cooch Behar DEMU,,Bamanhat,,20.08.2020
+78,extension,13281,New Tinsukia Jn-Rajender Nagar Bihar Express,,Dibrugarh,,20.08.2020
+78,extension,15929,Dibrugarh-Tambram Dibrugarh Express,,New Tinsukia,,20.08.2020
+78,extension,15669,Guwahati-Dimapur Nagaland Express,,Dibrugarh,,20.08.2020
+78,extension,15665,Guwahati-Dimapur BG.Express,,Mariani,,20.08.2020
+78,extension,51239,Amla-Betul Passenger,,Itarsi,,20.08.2020
+78,extension,18603,Ranchi-Bhagalpur Express,,Godda,,20.08.2020
+78,extension,13409,Malda Town-Jamalpur Express,,Kiul,,20.08.2020
+78,extension,15041,Farrukhabad-Kasganj Express,,Kanpur Anwarganj,,20.08.2020
+78,extension,17237,Nellore-Chennai MGR Express,,Bitragunta,,20.08.2020
+78,extension,67205,Vijayawada-Bitragunta MEMU,,Gudur,,20.08.2020
+78,extension,59441,Mumbai Central-Ahmedabad Passenger,,Nandurbar,,20.08.2020

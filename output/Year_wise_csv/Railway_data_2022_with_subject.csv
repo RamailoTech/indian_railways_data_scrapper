@@ -1,0 +1,126 @@
+CC No.,Type,Train number,Train name,Start Station name,End Station name,Stoppage Station name,Date of Issue
+24,stoppage,19217/18,Bandra (T)-Veraval Express,,,Keshod,15.03.2022
+32,extension,18619,RANCHI- GODDA EXPRESS,,GODDA,,31.03.2022
+32,extension,18620,DUMKA- RANCHI EXPRESS,,GODDA,,31.03.2022
+17,stoppage,11753/54,Itwari-Rewa Express,,,Ghansore,28.02.2022
+09,extension,08411,BHADRAK-BHUBANESWAR PASSENGER SPECIAL,,BALASORE,,10.01.2022
+09,extension,08412,BHUBANESWAR- BALASORE PASSENGER SPECIAL,,BALASORE,,10.01.2022
+34,introduction,None,SULTANGANJ-DEOGHAR DEMU,SULTANGANJ,DEOGHAR,,01.04.2022
+34,introduction,None,DEOGHAR-SULTANGANJ DEMU,DEOGHAR,SULTANGANJ,,01.04.2022
+44,stoppage,22421/22,Delhi Sarai Rohilla-Jodhpur Express,,,Parhihara,28.04.2022
+44,stoppage,22481/82,Delhi Sarai Rohilla-Jodhpur Express,,,Talchhapar,28.04.2022
+44,stoppage,14727/28,Sri Ganganagar-Tilak Bridge Express,,,Sidmukh,28.04.2022
+44,stoppage,14727/28,Sri Ganganagar-Tilak Bridge Express,,,Anupshahr,28.04.2022
+44,stoppage,14727/28,Sri Ganganagar-Tilak Bridge Express,,,Rajaldesar,28.04.2022
+19,stoppage,04571,Bhiwani-Dhuri Passenger,,,Jamalpur Shaikhan,28.02.2022
+19,stoppage,04572,Dhuri-Sirsa Passenger,,,Jamalpur Shaikhan,28.02.2022
+19,stoppage,04575/76,Ludhiana-Hisar Passenger,,,Jamalpur Shaikhan,28.02.2022
+01,stoppage,12237/38,Varanasi-Jammu Tawi Begumpura Express,,,Lambhua,03.01.2022
+01,stoppage,20401/02,Varanasi-Lucknow Express,,,Lambhua,03.01.2022
+26,stoppage,14005,Sitamarhi-Anand Vihar Terminal Lichchhavi Express,,,Tundla,15.03.2022
+102,stoppage,12479/12480,Bandra(T)-Jodhpur Suryanagri Special Express,,,Vapi,15.07.2022
+102,stoppage,19091/19092,Bandra(T) - Humsafar Express,,,Vapi,15.07.2022
+14,stoppage,19037/38,Bandra (T)-Barauni Express,,,Ramganjmandi,"09.02.2022"
+14,stoppage,19607/08,Kolkata-Madar Express,,,Bundi,"09.02.2022"
+14,stoppage,12181/82,Jabalpur-Ajmer Express,,,Lakheri,"09.02.2022"
+14,stoppage,12465/66,Indore-Jodhpur Express,,,Dara,"09.02.2022"
+14,stoppage,19019/20,Bandra (T)-Haridwar Express,,,Dara,"09.02.2022"
+14,stoppage,19019/20,Bandra (T)-Haridwar Express,,,Morak,"09.02.2022"
+14,stoppage,19019/20,Bandra (T)-Haridwar Express,,,Keshorai Patan,"09.02.2022"
+14,stoppage,19019/20,Bandra (T)-Haridwar Express,,,Kapren,"09.02.2022"
+02,introduction,15077/78,GOMTINAGAR-KAMAKHYA EXPRESS,GOMTINAGAR,KAMAKHYA,,04.01.2022
+02,introduction,15077/78,KAMAKHYA-GOMTINAGAR EXPRESS,KAMAKHYA,GOMTINAGAR,,04.01.2022
+15,stoppage,15715/16,Kishanganj-Ajmer Express,,,Begusarai,03.03.2022
+15,stoppage,12835/36,Hatia-Yesvantpur Express,,,Bano,03.03.2022
+15,stoppage,12923/24,Dr. Ambedkar Nagar-Nagpur Express,,,Narkher,03.03.2022
+15,stoppage,16093/94,Chennai-Lucknow Express,,,Katol,03.03.2022
+15,stoppage,19665/66,Khajuraho-Udaipur Express,,,Singhpur Dumra,03.03.2022
+06,introduction,12097/98,Agartala-Jiribam Jan Shatabdi Express,Agartala,Jiribam,,08.01.2022
+06,introduction,12097/98,Jiribam-Agartala Jan Shatabdi Express,Jiribam,Agartala,,08.01.2022
+48,stoppage,18477/78,Puri-Yognagri Rishikesh Utkal Express,,,Belpahar,05.05.2022
+08,stoppage,22421/22,Delhi Sarai Rohilla-Jodhpur Salasar Express,,,Gotan,21.01.2022
+08,stoppage,14311/12,Bareilly-Bhuj Ala Hazrat Express,,,Sendra,21.01.2022
+08,stoppage,22451/52,Bandra (T)-Chandigarh Express,,,Beawar,21.01.2022
+08,stoppage,14645/46,Jaisalmer-Jammu Tawi Shalimar Express,,,Degana,21.01.2022
+107,extension,05837,Jhalawar City-Kota Passenger,,Junakhera,,25.07.2022
+107,extension,05838,Kota- Junakhera Passenger Special,,Junakhera,,25.07.2022
+55,stoppage,14711/14712,Sriganganagar-Haridwar Express,,,Bhuchchu, 23.05.2022
+55,stoppage,14736,Ambala-Sriganganar Express,,,Bhuchchu, 23.05.2022
+37,stoppage,12963/64,H. Nizamuddin-Udaipur City Mewar Express,,,Mandalgarh,05.04.2022
+25,stoppage,11071/72,Lokmanya Tilak(T)-Varanasi Kamayani Express,,,Nepanagar,15.03.2022
+25,stoppage,15017/18,Lokmanya Tilak(T)-Gorakhpur Express,,,Nepanagar,15.03.2022
+50,stoppage,12843/44,Puri-Ahmedabad Express,,,Norla Road,09.05.2022
+50,stoppage,18517/18,Korba-Visakhapatnam Express,,,Norla Road & Rupra Road,09.05.2022
+50,stoppage,18005/06,Howrah-Jagdalpur Express,,,Norla Road & Rupra Road,09.05.2022
+46,stoppage,18477/78,Puri-Yognagri Rishikesh Utkal Express,,,Brajrajnagar,05.05.2022
+46,stoppage,22865/66,Puri-Lokmanya Tilak (T) Express,,,Brajrajnagar,05.05.2022
+38,stoppage,14727/28,Sri Ganganagar-Tilak Bridge Express,,,Khinaniyan,06.04.2022
+38,stoppage,14727/28,Sri Ganganagar-Tilak Bridge Express,,,Tulwara Jhil,06.04.2022
+51,introduction,14021,DELHI -JAIPUR SAINIK EXPRESS,DELHI,JAIPUR,,09.05.2022
+51,introduction,14022,JAIPUR-DELHI SAINIK EXPRESS,JAIPUR,DELHI,,09.05.2022
+31,introduction,14807,BARMER-KHATIPURA EXPRESS,BARMER,KHATIPURA,,28.03.2022
+31,introduction,14808,KHATIPURA-BARMER EXPRESS,KHATIPURA,BARMER,,28.03.2022
+58,stoppage,13233/13234,Rajgir-Danapur Express,,,Pawapuri, 23.05.2022
+58,stoppage,14223/14224,Rajgir-Varanasi Budhpurnima Express,,,Nalanda, 23.05.2022
+21,stoppage,15279/80,Saharsa-Anand Vihar Express,,,Lakhminia,14.03.2022
+03,extension,15817,Guwahati - Naharlagun Donyi Polo Express,,Sukhovi,,04.01.2022
+03,extension,15818,NAHARLAGUN-SUKHOVI 1 DONYI POLO EXPRESS,,Sukhovi,,04.01.2022
+28,introduction,20488,DELHI-BARMER EXPRESS,DELHI,BARMER,,23.03.2022
+28,introduction,20487,BARMER-DELHI EXPRESS,BARMER,DELHI,,23.03.2022
+16,stoppage,22839/40,Rourkela-Bhubaneswar Express,,,Bagdihi,15.02.2022
+60,stoppage,12655/56,Ahmedabad-Chennai Express,,,Hinganghat,25.05.2022
+60,stoppage,12721/22,Hyderabad-Nizamuddin Express,,,Hinganghat,25.05.2022
+60,stoppage,12655/56,Ahmedabad-Chennai Express,,,Pulgaon,25.05.2022
+60,stoppage,12809/10,Howrah-CSMT Express,,,Pulgaon,25.05.2022
+60,stoppage,12721/22,Hyderabad-Nizamuddin Express,,,Sindi,25.05.2022
+60,stoppage,12139/40,CSMT-Nagpur Express,,,Sindi,25.05.2022
+60,stoppage,12833/34,Ahmedabad-Howrah Express,,,Chandur,25.05.2022
+60,stoppage,12139/40,CSMT-Nagpur Express,,,Chandur,25.05.2022
+60,stoppage,11040,Gondia-Kolhapur Express,,,Tuljapur,25.05.2022
+52,stoppage,15515/16,Raxaul-Danapur Express,,,Runni Saidpur,19.05.2022
+103,extension,14803,JAISALMER- SABARMATI EXPRESS,,SABARMATI,,18.07.2022
+103,extension,14804,SABARMATI JAISALMER EXPRESS,,JAISALMER,,18.07.2022
+39,stoppage,12801/12802,Puri-New Delhi Purushottam Express,,,"Chandrapura, Parasnath, Hazaribagh Road",08.04.2022
+39,stoppage,12307/12308,Howrah-Jodhpur Express,,,Parasnath,08.04.2022
+39,stoppage,22307/22308,Howrah-Bikaner Express,,,Parasnath,08.04.2022
+39,stoppage,13352,Alappuzha-Dhanbad Express,,,Katrasgarh,08.04.2022
+41,extension,None,MADURAI-TENI PASSENGER,,TENI,,19.04.2022
+41,extension,None,TENI-MADURAI PASSENGER,,MADURAI,,19.04.2022
+12,introduction,None,ITWARI - CHHINDWARA PASSENGER,ITWARI,CHHINDWARA,,"14.02.2022"
+12,introduction,None,CHHINDWARA - ITWARI PASSENGER,CHHINDWARA,ITWARI,,"14.02.2022"
+36,stoppage,13351/52,Dhanbad-Alappuzha Express,,,Rengali,03.04.2022
+36,stoppage,18451/52,Puri-Hatia Express,,,Rengali,03.04.2022
+36,stoppage,12871/72,Howrah-Titlagarh Express,,,Rengali,03.04.2022
+30,stoppage,12307/08,Howrah-Jodhpur Express,,,Koderma,28.03.2022
+30,stoppage,22307/08,Howrah-Bikaner Express,,,Koderma,28.03.2022
+20,stoppage,20497/98,Ahmedabad-Ekta Nagar Express,,,Nadiad,03.03.2022
+20,stoppage,20949/50,Ahmedabad-Ekta Nagar Express,,,Nadiad,03.03.2022
+20,stoppage,22927,Bandra (T)-Ahmedabad Express,,,Nadiad,03.03.2022
+20,stoppage,22945,Mumbai Central-Okha Express,,,Nadiad,03.03.2022
+23,extension,05507,SARAIGARH – RAGHOPUR DEMU,,LALITGRAM,,21.03.2022
+23,extension,05508,SARAIGARH- RAGHOPUR DEMU,,LALITGRAM,,21.03.2022
+23,extension,05515,SARAIGARH-SAHARSA DEMU PASSENGER SPECIAL,,SAHARSA,,21.03.2022
+106,introduction,None,CHHINDWARA-NAINPUR PASSENGER,CHHINDWARA,NAINPUR,,22.07.2022
+59,stoppage,12809/12810,CSMT-HOWRAH EXPRESS,,,Brajrajnagar,23.05.2022
+59,stoppage,12833/12834,AHMEDABAD-HOWRAH EXPRESS,,,Brajrajnagar,23.05.2022
+59,stoppage,20813/20814,PURI-JODHPUR EXPRESS,,,Brajrajnagar,23.05.2022
+35,extension,13045,HOWRAH- DEOGARH EXPRESS,,DEOGHAR,,01.04.2022
+35,extension,13046,DEOGARH - HOWRAH EXPRESS,,DEOGHAR,,01.04.2022
+05,extension,12107,LOKMANYA TILAK (T)-SITAPUR EXPRESS,,SITAPUR,,04.01.2022
+05,extension,12108,SITAPUR- LOKMANYA TILAK (T) EXPRESS,,SITAPUR,,04.01.2022
+105,extension,78824,DURG- DALLIRAJHARA DEMU,,DALLIRAJHARA,,22.07.2022
+105,extension,78815,RAIPUR- ANTAGARH DEMU,,ANTAGARH,,22.07.2022
+105,extension,78825,DALLIRAJHARA-DURGANTAGARH- DEMU,,DURG,,22.07.2022
+105,extension,78818,DURG DEMU,,ANTAGARH,,22.07.2022
+54,introduction,13132/33,New Jalpaiguri – Dhaka Cantt. Mitali Express,New Jalpaiguri,Dhaka Cantt.,,21.05.2022
+40,stoppage,12367/12368,Bhagalpur-Anand Vihar (T) Vikramshila Express,,,Buxar,13.04.2022
+33,stoppage,18477/78,Puri-Yog Nagari Rishikesh Express,,,Bamra,31.03.2022
+13,introduction,20452/51,NEW DELHI – SOGARIA EXPRESS,NEW DELHI,SOGARIA,,"09.02.2022"
+13,introduction,20451/52,SOGARIA-NEW DELHI EXPRESS,SOGARIA,NEW DELHI,,"09.02.2022"
+56,extension,12403,PRAYAGRAJ-JAIPUR EXPRESS,,BIKANER,, 24.05.2022
+56,extension,12404,PRAYAGRAJ-JAIPUR EXPRESS,,BIKANER,, 24.05.2022
+11,extension,12871,HOWRAH-TITLAGARH ISPAT EXPRESS,,KANTABANJI,,03.02.2022
+11,extension,12872,KANTABANJI-HOWRAH EXPRESS,,KANTABANJI,,03.02.2022
+04,stoppage,13163/13164,Sealdah-Saharsa Hatey Bazare Express,,,Kumepur,04.01.2022
+04,stoppage,13169/13170,Sealdah-Saharsa Hatey Bazare Express,,,Kumepur,04.01.2022
+04,stoppage,13033/13034,Katihar-Howrah Express,,,Kumepur,04.01.2022
