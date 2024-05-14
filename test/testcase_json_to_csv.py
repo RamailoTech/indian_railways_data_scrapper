@@ -4,11 +4,11 @@ import pandas as pd
 
 
 # Parse the JSON data
-file_path = 'test/predicted_test_layoutmodel_with_subject.json'
+file_path = 'data/tests/predicted_test_layoutmodel_with_subject.json'
 with open(file_path, 'r') as file:
     data = json.load(file)
 
-output_path = 'results/subject_test_cases_layoutmodel.csv'
+output_path = 'data/tests/subject_test_cases_layoutmodel.csv'
 # Open a CSV file to write into
 # Extracting the test cases
 test_cases = data['test_cases']

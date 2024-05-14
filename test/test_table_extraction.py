@@ -8,15 +8,15 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-key=os.getenv('KEY')
-endpoint = os.getenv('ENDPOINT')
+key=os.getenv('AZURE_KEY')
+endpoint = os.getenv('AZURE_ENDPOINT')
 document_analysis_client = DocumentAnalysisClient(endpoint=endpoint, credential=AzureKeyCredential(key))
 
 # Define the directory path where PDF files are located
-directory_path = "pdfs/2024"
+directory_path = "data/pdfs/2024"
 
 # Specify the folder path to save JSON files
-output_folder = "results/parsed_2024"
+output_folder = "data/parsed_pdfs/parsed_2024"
 
 
 # Create the output folder if it doesn't exist
@@ -25,7 +25,7 @@ os.makedirs(output_folder, exist_ok=True)
 
 
 # Load the mapping from the CSV file
-csv_file_path = 'data/2024_table_data.csv'
+csv_file_path = 'data/form_data/2024_table_data.csv'
 type_mapping = {}
 with open(csv_file_path, mode='r', newline='', encoding='utf-8') as file:
     reader = csv.DictReader(file)

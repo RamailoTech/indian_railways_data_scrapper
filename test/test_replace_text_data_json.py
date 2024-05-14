@@ -26,9 +26,9 @@ def update_json_with_text_files(json_file_path, text_files_dir, output_json_path
 
 
 # Specify the paths
-json_file_path = 'test/test_cases_using_layoutmodel.json'
-text_files_dir = 'results/output_text'
-output_json_path = 'test/test_cases_layoutmodel.json'
+json_file_path = 'data/tests/test_cases_using_layoutmodel.json'
+text_files_dir = 'data/tests/output_text'
+output_json_path = 'data/tests/test_cases_layoutmodel.json'
 
 # Call the function to update the JSON file
 update_json_with_text_files(json_file_path, text_files_dir, output_json_path)

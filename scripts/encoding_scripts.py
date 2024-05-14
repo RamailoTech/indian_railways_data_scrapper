@@ -1,6 +1,6 @@
 import openai
 import json
-from f_utilss import *
+from utils import *
 
 
 def get_policy_encoding_stoppage_results(extracted_text,model_name = 'gpt-3.5-turbo',  prompt = get_system_prompt_encoding_stoppage(), guidelines = get_encoding_guidelines()):
@@ -10,7 +10,7 @@ def get_policy_encoding_stoppage_results(extracted_text,model_name = 'gpt-3.5-tu
         text: str
             The text of the Railway data
 
-        system_prompt The prompt to be passed to the model
+        system_prompt: The prompt to be passed to the model
     '''
     user_input = f"""
     Railway data: ```{extracted_text}```
