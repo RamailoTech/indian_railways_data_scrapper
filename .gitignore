@@ -1,4 +1,5 @@
-pdfs/
 venv/
 .env
-results/
+input/
+__pycache__
+data
