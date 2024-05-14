@@ -2,4 +2,8 @@ venv/
 .env
 input/
 __pycache__
+*/__pycache__/
 data
+logs/*
+!logs/.gitkeep
+!input/.gitkeep
