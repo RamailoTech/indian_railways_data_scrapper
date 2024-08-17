@@ -1,6 +1,13 @@
 # Railway Data
 
-This Python project is designed to scrape and process railway data from specific websites related to Indian Railways. The goal is to extract relevant information such as train number, station names, and other relevent information into a excel file.
+This Python project is designed to scrape and process railway data from specific websites related to Indian Railways. 
+The goal is to extract relevant information such as train number, station names, and other relevent information into a excel file.
+
+### About
+
+This project scrapes and processes railway data from Indian Railways websites using Selenium, and parses PDFs via Azure services. 
+The extracted data is then cleaned and preprocessed to feed a language model (LLM) for identifying relevant information such as train numbers, station names, and stoppages.
+
 
 ### Key Features
 
